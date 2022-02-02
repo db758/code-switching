@@ -1,0 +1,1476 @@
+nsubj apartment park
+nsubj photos attachment
+nmod toilets house
+nsubj:pass depository found
+amod wooden floors
+vocative student female
+nsubj are beds
+ccomp hope clean
+acl room viewing
+nsubj bedrooms share
+root send
+conj kitchen separate
+amod many restaurants
+amod free access
+root huge
+amod white cup
+amod own bathroom
+obj what include
+xcomp looks perfect
+amod special person
+csubj convenient go
+xcomp want rent
+conj stop stop
+dep facilities bed
+root challenges
+conj balcony front
+parataxis excuse move
+compound refrigerator room
+advcl interested contact
+obl keep week
+obj say much
+root air-conditioned
+det a male
+amod bigger space
+nsubj neighbors friendly
+root changed
+amod daily area
+compound housing companies
+nummod one month
+amod environmental safety
+nsubj bus convenient
+obj ask landlord
+compound squirrel hill
+amod excellent location
+xcomp like rent
+amod marble countertops
+conj squeamish messy
+amod good children
+advmod very large
+compound living room
+nsubj details welcome
+amod new bed
+compound cash card
+nsubj:pass house cleaned
+compound bedroom furniture
+obj meet friends
+aux can negotiated
+conj switched said
+nsubj cost effective
+conj bed bookcase
+compound cleaning carpets
+amod remaining items
+advcl contact interested
+amod common area
+det the priority
+amod necessary information
+acl:relcl what pay
+amod exact distance
+nummod seven months
+obl sell price
+nmod $ month
+nsubj are bedrooms
+case within walk
+case to school
+appos nearby location
+nsubj apartment up
+root fix
+amod free laundry
+nsubj furniture complete
+root included
+nsubj location excellent
+root rent
+amod topped kitchen
+nmod back house
+amod large window
+root rental
+csubj cheap rent
+nsubj rooms floor
+amod cheerful girls
+advcl try need
+amod more price
+obl passing miss
+nmod bedroom campus
+nsubj print can
+root depends
+nsubj house room
+root check in
+advmod quite easy
+compound air conditioning
+amod third loft
+nmod variety festivals
+conj spacious walk in
+compound living room
+advmod preferably boy
+det all free
+amod communal kitchen
+root plan
+nsubj furniture sale
+det each kind
+nsubj:pass position located
+det the monitor
+nmod price period
+conj graduate sell
+obl sent mail
+root air conditioned
+advmod get along
+compound fitness egg
+root rent
+obl look photos
+xcomp feel spacious
+obj has table
+nsubj rental $
+nsubj rent available
+advmod fully furnished
+conj large spacious
+obj handle furniture
+amod specific distance
+advmod link below
+compound bag check
+conj boy girls
+root requirements
+root backyard
+root provided
+nsubj bedroom available
+det a class
+det this certificate
+compound living room
+root condition
+nsubj is bedroom
+root available
+nmod advantages house
+appos landlord landlord
+nmod dollars month
+obj has bed
+obj has cable
+obj has bathroom
+nsubj:pass price negotiated
+nsubj price easy
+compound summer rental
+conj open accept
+nsubj picture is
+root thing
+amod plastic food
+root want
+root email
+amod ceramic plates
+nsubj anyone wants
+amod shading curtains
+compound apartment type
+obl stand doorway
+amod simple layout
+xcomp hope go
+nsubj teachers majority
+root monitored
+conj end classmates
+compound net fee
+amod enclosed garage
+root share
+root  looked
+xcomp help contact
+cc and work
+compound sitting room
+nsubj people need
+nsubj rooms have
+obl available may
+obj have intention
+root type
+conj bed table
+compound living room
+det this part
+nsubj parents came
+advmod hardly used
+aux can give
+nmod $ month
+cc plus basement
+root available
+obl black whole
+nmod face trade
+det all furniture
+det all kinds
+root state
+nmod plenty sunshine
+root cut
+root apartment
+advmod gets home
+nmod room floor
+nsubj house clean
+amod used bicycle
+cop are parks
+root clean
+root move
+parataxis ground underground
+amod small appliances
+nsubj floor bedrooms
+amod different directions
+xcomp struggle find
+conj $ month
+root time
+advmod also send
+conj windows lighting
+acl room shared
+compound wood flooring
+conj large good
+root hygienic
+amod solid desk
+obl opens balcony
+root  kind
+conj bathroom boys
+nsubj:pass rent set
+nmod $ month
+root transportation
+compound kitchen equipment
+conj management problems
+root contact
+amod existing furniture
+conj girl clean
+compound package gas
+nummod two people
+compound living room
+obj see house
+root situation
+acl:relcl furniture need
+nmod possibility damage
+compound water package
+advcl has share
+nmod pastry top
+nsubj:pass room air-conditioned
+conj full comfortable
+nsubj:pass house owned
+nmod $ month
+root  feel
+nmod neighborhood apartment
+compound room layout
+xcomp hire clean
+nsubj are bedrooms
+nsubj bedrooms available
+nsubj water included
+nsubj is car
+root experience
+root new
+nsubj necessities complete
+compound property service
+advmod mainly room
+nmod $ resale
+nsubj person use
+root contact
+cop is 700
+nmod layout house
+case with sunroof
+nsubj is left
+nummod two positions
+obl surrounded parks
+root accidents
+xcomp note buy
+obl:npmod wood colored
+appos chair up
+obj install furniture
+conj contact enquire
+obj mow lawn
+obl welcome sincerity
+case with lid
+compound property service
+nmod apartments university
+root girls
+nsubj:pass bedrooms furnished
+nmod one houses
+nsubj price high
+compound property management
+root neighborhood
+nsubj bed cheap
+obj isolate lampblack
+nmod restaurants hill
+compound resource service
+compound living room
+obl adjacent hospital
+root messy
+obj tell time
+nsubj contract fax
+nsubj:pass prices listed
+nsubj house one
+root  good
+nmod size collar
+nmod boys bedrooms
+root room
+nsubj:pass table included
+root car
+nmod 20 value
+obj live person
+obj provide photos
+compound girl paper
+appos good quality
+obl get phone
+amod big bedroom
+obj rent bedroom
+obl shown picture
+advmod high turned
+nmod table room
+compound download speed
+nsubj room has
+compound link content
+nsubj:pass room needed
+nsubj students find
+nsubj is room
+amod first floor
+conj room pictures
+obj update picture
+nsubj rooms are
+amod full set
+compound living room
+nmod picture apartment
+root bedrooms
+advmod completely closed
+amod long term
+nsubj is bathroom
+root bed
+amod tail performance
+conj meet negotiate
+root community
+nsubj are supermarkets
+root small
+compound living room
+nmod value neighborhood
+root knives fish
+parataxis new sufficient
+obj has windows
+conj transfer rmb
+obj bought furniture
+appos guide chinese
+nsubj price affordable
+compound living room
+nmod lawn backyard
+obl belongs level
+compound living room
+conj clean talkative
+obj has bar
+root bed
+nsubj table available
+nmod kinds fruit
+nmod:poss company website
+advcl put moving
+nsubj house new
+compound living room
+compound temperament artifact
+mark although selling
+compound storage space
+conj facilities condition
+compound living room
+root reserved
+conj bed furniture
+amod physical drawing
+appos corner desk
+advmod very easy
+conj room room
+nsubj people rent
+compound campus trading
+obl short months
+obl live house
+compound cash check
+amod online album
+obl available gate
+root rooms
+nsubj experience tells
+root s. sell
+root friend
+root price
+nsubj room costs
+acl deal cover
+conj magic tools
+nmod toilets baths
+root floor
+obj use them
+appos contact email
+compound living room
+amod domestic license
+nsubj electricity free
+compound living room
+nmod furniture house
+advmod very big
+compound air conditioner
+acl students working
+nsubj:pass room air-conditioned
+obj furniture want
+appos information email
+xcomp need contact
+root air-conditioned
+nsubj were girls
+root garage
+nsubj pursuit look
+root contact
+obj vomiting turn
+nmod $ month
+compound air conditioners
+root owner
+nsubj rent 524
+appos bed bag
+amod huge balcony
+nsubj neighborhood safe
+nsubj are lot
+nmod most rooms
+obj attached transformer
+conj one two
+orphan other bedroom
+nmod swing door
+compound living room
+root cheap
+conj monitors chairs
+root apart
+case between 520
+nsubj degree need
+nsubj bag carried
+conj room bathroom
+amod bigger furniture
+conj high unsheltered
+obj view room
+nmod:poss my piano
+nsubj:pass house air-conditioned
+nsubj bedroom rent
+nsubj house has
+obj use tube
+nsubj are bedrooms
+compound dining room
+amod new students
+compound air conditioner
+advcl carry move
+root said
+compound new group
+amod chinese version
+mark to see
+compound living room
+conj boy girl
+nsubj bathrooms clean
+obl occupied sisters
+root text
+compound apartment structure
+nmod sports tv
+conj energy money
+nsubj landlord recruit
+root bedroom
+obl have exam
+case to mailbox
+nsubj:pass furniture bought
+obj buy furniture
+amod part-time job
+discourse please send
+root air-conditioned
+root ~ location
+nsubj house available
+conj heated air-conditioned
+conj weekend evening
+amod good table
+root new
+nmod:poss girl house
+obl furniture move
+conj recommend consider
+nsubj location convenient
+nsubj are rooms
+aux:pass is equipped
+root large
+amod new car
+nsubj cabinet thank
+root apartment
+amod personal conditioner
+nsubj basement hold
+conj furniture appliances
+root ability
+root needs
+root give
+conj bedroom study
+obj share bathroom
+nmod lot village
+nmod command english
+nsubj apartment dominated
+amod marble countertops
+compound walking distance
+compound summer vacation
+root large
+nsubj house sleep
+compound living room
+xcomp welcome contact
+compound email jolinsen#gmail
+expl there 's
+compound item list
+root has
+root forgot
+obj buy bed
+obj took men
+obj seen cockroach
+root cheap
+conj furniture necessities
+nsubj grey thank
+obj excluding utilities
+obl talk friends
+conj arts psychology
+list lamp table
+advmod starting now
+nmod addition network
+advmod also lived
+root shower
+expl there 's
+obj note rent
+root girls
+obj watch animation
+compound factory boxes
+obl worth dollars
+nummod four bedrooms
+compound living room
+conj bedrooms bathroom
+compound graduation move
+amod separate bathrooms
+nsubj online 139
+obl left rent
+amod first owner
+compound college market
+root have
+root top
+advmod relatively independent
+obl give classmates
+nsubj:pass price negotiated
+amod front yard
+nmod one neighborhoods
+advmod right away
+expl there is
+compound bedroom carrying
+compound sales part-time
+root tile
+root table desk
+det no discrimination
+nsubj:pass time negotiated
+compound dry cleaning delivery
+advcl indicating calling
+det a backyard
+root location
+root bed
+parataxis top rent
+root right
+root inclusive
+root preferred
+compound bedroom photos
+expl there 's
+case into room
+conj room kitchen
+advcl participate improve
+advmod very big
+obl clean lighting
+obl went high school
+amod good neighbors
+obl items interested
+nsubj supplies complete
+advmod regularly participate
+root restrictions
+amod more information
+case on picture
+obj saves lot
+nsubj:pass benefits known
+advmod get now
+amod carpeted floor
+root sanitary
+compound living room
+root  choice
+compound living room
+aux can deliver
+amod little parlor
+root  miss
+case outside window
+nsubj girls better
+obl:tmod play days
+nmod link picture
+amod chemical engineering
+obj let load
+case to you
+amod affordable recommendation
+flat ms. chen
+amod chinese supermarket
+nsubj you good
+case to stop
+nmod condition present
+compound contact information
+root clean
+advmod club outside
+nsubj:pass habit renewed
+nmod articles use
+compound contact information
+nmod $ month
+advmod theoretically required
+compound domain name
+root bicycle
+root  welcome
+compound school insurance
+amod electrical wiring
+obj write email
+root email
+advmod also good
+nsubj:pass kitchen furnished
+compound next-door neighbors
+obj having problem
+amod bad habits
+aux could rent
+cop is free
+amod central conditioning
+advmod also have
+case including bed
+conj bicycle bicycle
+root upgrade
+compound:prt put up
+conj gym park
+root kitchen
+amod first floor
+obj have girls
+amod japanese cars
+compound accident record
+nsubj you tell
+obl spend laboratory
+obl drive neighborhood
+root pot
+conj gas heating
+nmod set furniture
+nmod middle january
+amod working language
+obl north school
+obl contacted email
+root check
+amod chinese document
+root  contact
+det this house
+nmod trip school
+compound floor lamp
+case outside house
+amod domestic contact
+ccomp know come
+amod many inches
+root enthusiastic
+nummod one month
+conj three two
+conj table sofa
+amod last week
+root ignore
+aux can carry
+nsubj picture show
+nmod punctuality time
+root complete
+obj use all
+conj clean easy
+nmod room rent
+mark that exist
+obl available rent
+obl register property
+advcl beware cheated
+expl is there
+nmod $ month
+obj get sun
+obl full cars
+conj bag chair
+obj charged dime
+nsubj maintenance good
+obj install network
+obl addition necessary
+nmod owner building
+amod professional degree
+obl send teachers
+nsubj forums download
+xcomp like see
+obl choose situation
+root there poor
+acl place contact
+obj bring life
+compound living room
+nmod:poss my store
+det an couple
+nmod:poss opponent situation
+root object
+root share
+compound contact information
+compound office transfer
+nsubj location excellent
+compound basement floor
+conj bed sofa
+amod whole family
+root send
+root top
+obj change oil
+discourse please contact
+conj engineering life
+root  support
+obj thank you
+obl pay maintenance
+conj bed lamp
+compound contact information
+advmod also suitable
+obl have mind
+obl trade school
+obl home have
+xcomp wanted study
+root  nice
+xcomp let update
+advcl come visit
+conj furniture network
+parataxis convenient walk
+obl ask help
+root  join
+compound customer needs
+root id
+amod variable bicycle
+obl drive village
+xcomp like rent
+obj carry check-in
+amod good facilities
+amod controversial work
+amod little chair
+amod residential permit
+appos boy box
+compound mileage ticket
+compound insurance expert
+compound parking space
+nsubj teachers welcome
+case to station
+det a ride
+conj room kitchen
+expl there is
+nummod two puzzles
+compound living facilities
+nmod range vision
+aux can contact
+compound photo link
+compound router model
+compound research project
+case including table
+det which neighborhood
+conj bedrooms hall
+conj july rent
+nmod period month
+appos others appearance
+nmod kinds goods
+compound cloakroom racks
+obl present friends
+nmod ceiling apartment
+nsubj sofa out
+root have
+conj desk cabinet
+nsubj owner sell
+case of appliance
+acl:relcl sofa complete
+obl send transfer
+compound contact information
+compound consulting company
+obj send photos
+nsubj:pass vacuum priced
+parataxis $ discussed
+ccomp ask send
+appos furniture bed
+compound contact information
+aux can rent
+compound link information
+nsubj owner lived
+compound ground floor
+nummod one bathroom
+obj contains gym
+amod rental information
+compound vehicle function
+parataxis carry provide
+parataxis out sale
+nmod middle community
+nsubj network include
+nmod variety functions
+root hours
+root boys
+xcomp want buy
+root recommended
+advmod back negotiate
+compound driving functions
+xcomp welcome visit
+nmod certification pieces
+compound apple keyboard
+amod representative papers
+compound tire press
+amod big cult
+root update
+obj rented house
+obj provide services
+discourse haha understand
+root heavier
+nmod july august
+amod quality environment
+advcl contact want
+root thank you
+discourse okay thank
+nsubj are cars
+acl:relcl person knows
+amod third bedroom
+nmod $ month
+compound maintenance records
+case to school
+advmod only girls
+obl asks address
+obj has carport
+iobj give me
+nummod two rooms
+appos cost community
+obj invite friends
+nmod kinds tableware
+xcomp ask delete
+root  need
+det a personality
+root ~ advise
+obj change oil
+xcomp need contactable
+compound laundry basket
+compound color clothes
+nmod least one
+obj explain address
+advmod absolutely genuine
+case with bathroom
+mark that loud
+amod original price
+root kitchen
+nsubj:pass kitchen cleaned
+nsubj:pass furniture resold
+obl:npmod month ago
+compound vegetable cart
+nsubj owner aunt
+obl ends same
+compound gym card
+nsubj 's lot
+obj see picture
+obj provide information
+amod spoken english
+compound email address
+obl working boss
+conj refrigerator kitchenware
+root apply
+root practice
+obj want mirror
+nsubj owner woman
+amod shared bathrooms
+advmod not village
+conj friends family
+nummod one bedroom
+conj carpets facilities
+compound email contact
+compound lawn care
+advmod also needed
+root convenient
+obl move village
+det each brand
+obl send person
+nsubj is toilet
+root ann. contact
+amod small park
+nmod morning september
+advmod paid directly
+conj spacious furnished
+parataxis strange attachments
+advmod working normally
+obl looks liar
+obj fill questionnaires
+conj bicycle ride
+compound student union
+conj enthusiastic responsible
+root reply sent
+compound living room
+det no cars
+amod good care
+det the sofa
+obj confirmed schedule
+compound master’s degree
+nsubj graduation sell
+appos scholar phd
+root updated
+conj have walk
+obl bask quilt
+conj house facilities
+appos conditions gym
+xcomp welcome taste
+nmod:poss minutes walk
+det the coordinates
+compound sofa table
+compound phishing email
+nsubj kitchen has
+amod short links
+advmod how many
+nsubj 's park
+root email
+nsubj car efficient
+obj give maze
+obl look car
+case with machine
+root prevents
+case during vacation
+nsubj parents work
+obl surrounded parks
+obj have problem
+root ask
+obj park car
+compound table tennis
+compound vacuum cleaner
+nsubj bedroom one
+advcl interested contact
+parataxis preferred thank
+root hello
+nsubj:pass location expected
+root thanks
+root managed
+compound customer psychology
+amod absolute hygiene
+amod big park
+obl take supermarket
+amod good memory
+nmod insurance month
+amod specific information
+root assigned house
+amod transparent mode
+obj keep pets
+amod private bathroom
+nmod north school
+nsubj neighborhood big
+root necessary
+compound strain capacity
+obl rent months
+nmod:poss month rent
+compound email address
+compound contact information
+nsubj categories are
+amod spoken english
+compound village performance
+nsubj bathroom is
+obl goes bed
+det:predet all necessities
+obj use wireless
+advmod still available
+obj enjoy heating
+nsubj you have
+amod good condition
+ccomp think disappointed
+nsubj where house
+case to development
+nsubj i pick
+root neighborhood
+amod housing rental
+nmod:poss your tv
+obj passed test
+nsubj owner can
+list pittsburgh philadelphia
+obj dominate space
+compound text messages
+compound bus station
+obl last months
+amod good notes
+advmod also contacted
+obj share kitchenware
+amod largest company
+amod private quarters
+advmod little more
+amod quiet girl
+nsubj you sell
+root furnished
+amod small park
+compound school library
+conj before after
+compound swimming pool
+obj test license
+parataxis patience let
+compound community environment
+compound bus coin
+conj old new
+amod very sincerity
+obl take car
+nsubj you need
+nsubj address negotiate
+root contact
+nsubj games there
+conj quality cheap
+obl thank attention
+obj has bathroom
+amod long time
+obj have printers
+amod male students
+amod real bag
+appos bedrooms bathroom
+det a tears
+obj clean sheets
+parataxis contact thank
+nsubj nervous send
+nsubj house complete
+root girl
+root needs
+nmod trip new york
+obj contact cheater
+det the house
+parataxis sweep forgot
+nsubj:pass car made
+nsubj expenses extra
+amod reasonable schedule
+amod red ones
+conj furniture oven
+root responsible
+compound kennedy airport
+obl contact email
+root seriously
+obl get traffic
+nmod kind necessities
+amod academic workload
+advmod live happily
+obl came united states
+obj have dog
+root new
+aux can consider
+nsubj park nearby
+advcl interested contact
+discourse hello want
+cc but fine
+nsubj opportunity rare
+compound rent level
+root bedrooms
+compound transportation tools
+obj reduce rent
+cop are interested
+nsubj photo link
+obl useful newcomers
+amod chinese student
+aux can contact
+nsubj owner return
+nsubj:pass owner used
+nsubj kitchen large
+nmod one united states
+nsubj:pass topic called
+nmod look things
+obj buying anything
+compound travel date
+compound rain brother
+obj have identity
+compound contact information
+obj buying car
+amod short-term insurance
+advmod intentionally contact
+obl check now
+compound trial run
+compound summer week
+nsubj cabinet sale
+nsubj:pass house furnished
+conj call email
+obj sharing oil
+nmod message phone
+xcomp want rent
+nsubj neighborhood beautiful
+obl walk neighborhood
+compound image link
+advmod finally clean
+root welcome
+amod visiting scholar
+compound contact information
+nmod $ month
+amod overseas application
+compound living room
+obl rent month
+obj renting car
+compound maintenance record
+amod high backrest
+nmod life habits
+amod more details
+nmod link picture
+conj preparation revision
+compound dinner time
+root contact
+root contact
+obj emailed you
+obj tell details
+acl:relcl those interested
+xcomp welcome visit
+nsubj what number
+obl click link
+nmod photographs interior
+obj need place
+nsubj practical car
+obl looking apartment
+nsubj:pass everything kept
+nsubj neighborhood quiet
+nmod bedroom bathroom
+nsubj:pass room transferred
+nummod one month
+amod best location
+advmod return home
+obj meet requirements
+obl go philly
+obl rent month
+compound asking price
+compound summer vacation
+nummod one month
+obj have person
+amod professional inspection
+nsubj appearance is
+aux don’t make
+root printer
+root exchanged
+amod used bikes
+compound laundry machine
+advcl prank stop
+nmod knives sale
+aux don’t need
+compound graduation move
+compound air conditioning
+case around quiet
+obj see room
+nsubj site sets
+nsubj prices negotiable
+advmod returns recently
+obj found room
+obl gone school
+obj need router
+obj make appointment
+amod appropriate person
+nsubj owner going
+aux cannot negotiate
+advmod all furnished
+ccomp hope delivered
+nsubj training available
+amod international organizations
+amod different problems
+amod pure wool
+compound customer experience
+compound desk chair
+advmod link below
+nmod talents agriculture
+parataxis introduce understand
+compound contact number
+nsubj you there
+amod good case
+nsubj i rent
+obj comes part
+nmod photos items
+root person
+obl pay cleanliness
+nummod one month
+nsubj i know
+amod brand new
+amod electric piano
+compound change charge
+compound payment method
+amod separate balconies
+root leave
+advmod is also
+root complete
+conj front rear
+obj learn instruments
+amod chinese students
+root quiet
+amod relevant experience
+obj submit materials
+amod professional coach
+root ambassador campus
+obj give price
+obj faces park
+root mirror
+compound shoe rack
+nsubj you received
+conj room kitchen
+vocative hello everyone
+nsubj furniture complete
+nsubj you have
+compound house insurance
+case from now
+amod other students
+obj find receipt
+advcl vary needed
+amod new microwave
+compound oriental supermarket
+root pull
+root  mean
+nmod $ month
+obj solve status
+compound phd student
+obj bring furniture
+obj buy tickets
+root required
+obl rent year
+xcomp keep clean
+root cleaner cleaner
+obj ensure health
+nsubj are pictures
+nsubj insurance has
+conj ashamed forgot
+obj forgot mileage
+advmod then top
+det the platform
+amod small places
+nsubj table $
+obj has bedrooms
+compound living room
+nsubj things take
+advmod most effective
+discourse please contact
+nsubj is stop
+acl bag check-in
+compound bookshelf desk
+amod great heater
+nummod four chairs
+obl:npmod blocks away
+root rent
+amod actual images
+amod main residents
+amod basic utensils
+amod large rooms
+compound swimming club
+amod basic furnishings
+root box
+conj water gas
+appos condition new
+root email
+nsubj you add
+obj need light
+amod original occupants
+nsubj chairs come
+nsubj location good
+amod rental information
+compound living room
+amod plastic foam
+conj couples friends
+root house size
+conj meat things
+nmod number hangers
+obj buy computer
+amod big kitchen
+amod basic furniture
+compound kitchen machine
+nsubj:pass apartment located
+root : buy
+amod quiet area
+nmod field vision
+advmod about 1
+discourse please inform
+compound installation instructions
+cc and laundry
+obj send picture
+case until april
+obl given classmates
+conj appliances instruments
+compound month rent
+advmod then discuss
+xcomp driving pull
+root furnished
+nsubj students take
+advmod all inclusive
+advmod still there
+nsubj room big
+root top
+compound living room
+root effect
+nsubj:pass temperature adjusted
+amod serious nozzle
+conj room room
+parataxis work disturb
+root redecorated
+root  valid
+conj old new
+amod free access
+conj simple elegant
+amod good house
+compound update content
+advcl interested contact
+nmod $ month
+amod chinese students
+advcl contact interested
+nmod information landlady
+obl send lease
+compound home house
+nsubj is printer
+compound apartment environment
+conj call sms
+appos landlord american
+amod small table
+nmod happiness family
+conj basement area
+amod independent ark
+obl get it
+root rent
+advcl shown easy
+obj see room
+amod separate spaces
+compound graduation season
+appos transportation walk
+nsubj window good
+obl:tmod pay month
+root basis
+amod big students
+nsubj below photos
+obj changed tires
+root kind
+cc and backyard
+amod own machine
+conj toaster scale
+amod spacious room
+obl:tmod pleaded day
+compound verification information
+case on room
+amod formal contract
+root includes
+amod enclosed apartment
+nsubj 's pot
+nsubj is garden
+amod electric fan
+advmod especially good
+mark to update
+aux better bring
+obl charged day
+nsubj is plenty
+obl equivalent room
+obl responsible cleaning
+root lived
+conj water gas
+conj gas everything
+obl suitable reading
+obj has library
+nsubj is bathroom
+advmod completely rented
+root relax
+root  walk
+advcl interested contact
+amod south light
+root items move
+nmod set furniture
+obj see house
+nsubj:pass security guaranteed
+amod separate locks
+compound apartment facilities
+root prepare
+appos period month
+compound air conditioner
+advmod very comfortable
+root category
+amod big drawer
+nsubj is garage
+conj discuss buy
+aux may use
+root  live
+nsubj layout is
+root negotiable
+amod effective date
+conj room kitchen
+root invalid
+discourse please click
+obj buy things
+nmod introduction type
+obj buy insurance
+parataxis equipped cleaner
+root close
+obl live habits
+advmod very good
+nsubj are elevators
+root type
+nsubj rent $
+obj share part
+conj bathroom furniture
+compound living room
+advmod very large
+conj bedrooms hall
+obl deposit basement
+nsubj rent negotiable
+dep direction south
+advmod newly decorated
+root pictures
+root  novels
+expl there are
+nsubj:pass kitchen decorated
+ccomp hope girl
+amod electronic scale
+advmod very convenient
+amod basic furniture
+root send
+nmod item pictures
+amod good insulation
+conj bedroom bathroom
+compound parking garages
+nmod course park
+case to size
+amod long term
+nsubj requirements are
+case for example
+amod direct bus
+aux has sold
+root 412-4788289 contact
+amod spacious room
+compound corridor photo
+det the school
+det the photos
+root  convenient
+root given
+nsubj:pass furniture left
+amod free parking
+compound carpet wardrobe
+conj kitchen bathrooms
+amod attached furniture
+obl:npmod product official
+root quiet
+compound yoga balls
+amod surrounding supermarkets
+nsubj:pass apartment managed
+mark where eat
+nsubj are deadlines
+obj bringing boys
+obl suitable visitors
+conj room kitchen
+nsubj are bedrooms
+root clean
+compound living room
+nsubj:pass bedding sent
+conj chairs bag
+compound living room
+obl segregated screen
+expl there are
+conj bedrooms kitchen
+obl allowed apartment
+obl restricted bus
+nsubj are shelves
+nsubj photo shows
+advmod very new
+obj has parking
+conj have wanted
+obj send furniture
+conj signed rent
+amod male graduate
+root big
+root university
+case for information
+nsubj price negotiable
+amod rental rates
+root live
+xcomp want let
+compound living room
+nsubj floor bedrooms
+det these costs
+nsubj bedrooms size
+case to park
+root drawers chest
+mark to sell
+root : something
+compound day rent
+nmod kinds furniture
+root car
+compound room type
+conj trolleys ovens
+amod small yard
+root air-conditioned
+conj date time
+nsubj are furniture
+nmod piece wood
+nsubj is mailbox
+amod big table
+obj attack denon
+conj rooms rooms
+root introduction
+root parking
+obj includes utilities
+acl appointment see
+amod rental information
+compound housing photo
+obl suitable learning
+root old
+compound email contact
+obj need furniture
+advcl interested miss
+advmod photos below
+root basket
+root thanks
+obj see pictures
+root  ready
+nsubj:pass price negotiated
+compound company overview
+nsubj winter has
