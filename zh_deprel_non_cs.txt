@@ -1,0 +1,1476 @@
+nmod 公寓 对面
+nsubj 照片 放
+nsubj 房子 有
+obj 找到 地方
+nmod 木头 地板
+conj 生 女生
+nmod 床 书桌
+advcl 干净 入住
+xcomp 安排 看
+nsubj 卧室 共用
+advcl 发 到
+compound 独立 卫
+nummod 很多 餐馆
+advmod 免费 上网
+NA
+nmod 白色 水杯
+NA
+det 哪些 东西
+advmod 没 缺点
+nsubj 专人 负责
+cop 上学 就好
+acl:relcl 租 价格
+conj 车站 车站
+NA
+xcomp 喜欢 挑战
+nmod 前后 花园
+advcl 搬家 议
+compound 冰箱 房
+nsubj 兴趣 看
+obj 保留 星期
+advmod 多 说
+NA
+nummod 一 名
+advcl 更大 有
+nsubj 邻居 友好
+root 。 换
+amod 日常 区域
+nmod 房屋 公司
+clf 个 月
+nmod 环境 安全
+advcl 坐 方便
+nmod 房东 要求
+compound 松鼠 山
+root ！ 好
+NA
+nmod 大理石 橱柜
+NA
+case:pref 好 孩子
+NA
+obj 共用 客厅
+obj 欢迎 细节
+case:pref 新 床 了
+compound 现金 卡
+obj 爱 房子
+conj 厨具 卧室
+obj 认识 朋友
+aux 可 商议
+parataxis 开关 说
+nsubj 性价比 高
+NA
+xcomp 担心 清理
+nmod 剩余 物品
+nsubj 兴趣 联系
+amod 公共 区域
+case:dec 年 的
+nmod 必须 信息
+clf 分 货 
+amod 具体 路程
+xcomp 租 满
+conj 送 低价
+clf 月 租金
+nsubj 卧室 出租
+nsubj 范围 有
+case 离 学校
+appos 周边 地段
+nsubj 公寓 接着
+root 。 修
+amod 免费 洗衣
+nmod 家具 厨具
+obj 包括 里面
+nmod 地理 位置
+nsubj 租金 入住
+nmod 台面 厨房
+nmod 房子 后面
+case:pref 大 窗 ，
+conj +电 网
+root ！ 招租
+nsubj 房间 分离 
+nsubj 性格 开朗
+xcomp 需要 尽量
+advmod 多 可议
+obj 走过 路过
+obj 走路 学校
+conj 复印 打印
+root 。 定
+nsubj 房子 厅
+root 。 入住
+advmod 相当 方便
+appos 客厅 空调
+nummod 三 楼
+nmod 节庆 活动
+compound 步入 式
+obj 补充 客厅
+advmod 最好 男生
+det 各 种
+nmod 公用 厨房
+compound 户型 图
+nsubj 家具 出售
+det 各 种
+nmod 职位 地点
+det 该 显示器
+nmod 时间 价钱
+root 。 卖
+obl 邮件 发送
+nmod 空调 暖气
+obj 有 事
+compound 健身 蛋
+root 。 出租
+obj 看 照片
+NA
+obj 有 餐桌
+conj 日期 价格
+obj 交 房租
+det 全 套
+advmod 很 宽敞
+nmod 家具 考虑
+amod 具体 距离
+nsubj 下方 连接 ，
+nsubj 拎包 入住
+NA
+ccomp 希望 爱
+obj 带 后院
+root 。 提供
+nmod 房 月
+discourse 来 的
+det 此 证明
+root . 客厅
+nsubj 条件 干净
+nsubj 卧室 出租 
+aux 可以 租 
+nmod 房 优点
+case:pref 大 工作 ，
+det 每 月
+NA
+obj 有 电缆
+obj 有 卫生间
+nsubj 价格 商量
+nsubj 价格 商量
+nmod 暑期 评价
+conj 开门 接受
+nsubj 图片 如下
+root 。 东西
+nmod 塑料 盒
+aux 想要 点
+nmod 发 邮件
+nmod 陶瓷 盘子
+nsubj 人 租 吗
+advcl 遮光 布
+nmod 公寓 房型
+obj 在 门口
+amod 简易 图
+xcomp 希望 去
+nsubj 老师 居多
+xcomp 有 监控
+nsubj 同学 住
+compound 网 费
+obj 有 配套
+advcl 公用 有
+root ！ 看
+mark 帮 上
+cc 及 精神
+nsubj 客厅 有
+nsubj 人 提交
+nsubj 房间 有
+NA
+obj 提供 情况
+root 。 户型
+nmod 桌子 椅子
+nmod 客厅 沙发
+det 这 部分
+nsubj 父母 过来
+advmod 怎么 用
+advcl 酌情 赠送
+clf 月 $550 
+advcl 外加 有
+aux 可 入住
+nmod 整体 黑色
+root 。 交易
+det 全 套
+det 各 式
+advcl 说明 否则
+obj 有 日照
+root ！ 顶
+root 。 公寓
+nsubj 家 在
+nsubj 楼 有
+nsubj 房子 整洁
+nsubj 二手 自
+cop 是 公园
+root 。 干净
+root 。 搬家
+nsubj 地下 层
+case:pref 小 家电
+root 。 卧室
+det 每个 卧室
+advcl 找 纠结 
+det 每 月
+nsubj 时间 尴尬
+mark 还 发
+nmod 采光 通风
+root 。 共用
+nmod 木头 地板
+NA
+NA
+nmod 实木 柜子
+obj 通向 阳台
+advcl 和善 说话
+NA
+nsubj 租金 定
+nsubj 网 包 
+nmod 交通 :
+nmod 厨房 设备
+obj 出现 问题
+xcomp 有意 联系
+nmod 现有 家具
+parataxis 女生 干净
+root 。 包
+nummod 两 人
+nsubj 客厅 厨房
+nsubj 房子 看
+advcl 现有 限
+obj 找到 需要
+nmod 损坏 可能性
+obj 包 水
+parataxis 有 共用
+nsubj 上面 蒸
+nsubj 房间 有
+NA
+nsubj 房子 棒
+clf 月 $2000
+obj 找到 感觉
+nmod 公寓 社区
+nmod 房间 布局
+ccomp 请 打扫
+root 。 卧室
+nsubj 卧室 出租
+root 。 水
+obj 有 车
+obj 是 经验
+advcl 新 有
+nmod 生活 用品
+ccomp 房产 好
+advmod 主要 打扫
+xcomp 附带 转卖
+nsubj 人 用
+nmod 联系 方式
+cop 是 月
+nmod 房子 布局
+advcl 配 说明书
+obj 剩 间
+nummod 两 个
+advcl 公园 无
+obj 没有 事故
+xcomp 注明 买
+nmod 木头 颜色
+root . 升降
+obj 装 家具
+conj 联系 询问
+nsubj 草坪 不用
+nsubj 诚意 办理
+root 。 带
+nmod 物业 服务
+nmod 学校 附近
+root 。 女生
+nmod 卧室 家具
+nmod 房子 链接 
+nsubj 性价比 高
+nmod 物业 办公室
+nsubj 房子 社区 
+nsubj 床 入住
+NA
+nmod 山 餐厅
+nmod 资源 公司
+nmod 客厅 对面
+root 。 医院
+advcl 乱 收拾 的
+nmod 时间 地点
+parataxis 签订 合同
+nsubj 价格 合理
+root 。 房子
+parataxis 高层 好
+nmod 领 尺寸
+nsubj 卧室 有
+root 。 房
+obj 送 桌子
+nmod 车 时候
+nsubj 面值 20
+obj 住 人
+obj 提供 照片
+nmod 女孩 纸 
+nmod 质量 匹 村
+obl 电话 联系 
+case:pref 大 卧室
+obj 租 卧室
+obj 入 图片
+advmod 多 都没
+conj 饭桌 房间
+nmod 下载 速度
+nsubj 房间 有
+nmod 链接 内容
+obj 求 房间
+nsubj 同学 顺利
+nsubj 房间 出租 
+nummod 一 楼
+conj 房 ， 图片
+obj 一下 图片
+nsubj 房间 :
+det 全套 家具 
+nsubj 客厅 有
+nmod 公寓 图片
+appos 卧室 卧室
+advmod 完全 挡住 
+case:pref 长 租
+obj 有 卫生间
+nsubj 床 有
+NA
+advcl 协商 也可
+root 。 社区
+NA
+NA
+root 。 客厅
+root 。 房子
+root 刀 鱼
+NA
+NA
+NA
+NA
+conj 指南  语文
+nsubj 价格 商量
+obj 经过 客厅
+nsubj 后院 停车
+obj 属 级别
+nmod 客厅 空间
+NA
+obj 有 吧台
+nsubj 床 入住 
+nmod 餐桌 凳子
+nmod 水果 小吃
+nmod 公司 吧
+xcomp 搬家 出售
+nsubj 房子 新 
+nsubj 客厅 有
+nmod 气质 神器
+mark 但 留
+nmod 存储 空间
+nmod 卫生 状况
+nsubj 客厅 有
+root 。 预约
+ccomp 有 家具
+compound 实物 图
+NA
+advmod 很 相处
+conj 平米 房间
+nsubj 人 租
+nmod 校内 人员
+obj 短 月
+nsubj 房子 住
+nmod 现金 支票
+obj 放在 网络
+obj 在 门口
+nsubj 房间 室
+nsubj 经验 告诉
+root . 卖
+compound 朋友 代
+nsubj 价格 在
+nsubj 房间 租
+advcl 包干 划算
+obj 煮 工具
+obj 带 浴池
+root ； 地板
+nmod 耳机 机会
+appos 方式 邮箱
+nmod 厅 公寓
+nmod 国内 驾照
+compound 水电 煤
+nmod 客厅 里面
+nmod 家里 用品
+advmod 很 大 
+conj 冰箱 空调
+acl:relcl 工作 人
+nsubj 房 有
+obj 要 家具
+appos 方式 邮箱
+root ！ 联系
+nsubj 屋内 有
+NA
+root 。 车库
+acl:relcl 追求 妹子
+root . 联系
+root ！ 转
+nmod:tmod 月 包 
+nmod 空调 东西
+root . 车主
+nsubj 租金 .
+nsubj 拎包 入住 
+advmod 很 大 的
+nsubj 周边 安全
+nummod 多 厨房
+nsubj 房间 有
+obj 附 变压器
+conj 一 二
+obj 做 卧室
+nsubj 门口 有
+root 。 客厅
+nsubj 价格 便宜
+nsubj 椅子 不卖
+nsubj 间隔 远 
+acl 520-580 间
+nsubj 学位 进行
+nsubj 拎包 入住 
+NA
+advmod 更 大 的
+nsubj 旁边 没有
+obj 看 房
+det 我 钢琴
+nsubj 房子 需品
+root 。 卧室
+nsubj 房子 厨房
+xcomp 用 管
+parataxis 卧室 卧室
+advmod 餐厅 看
+obj 适合 新生
+obj 求 空调
+root 。 入住
+root 。 说
+case:pref 新 师
+nmod 中文 版本
+case 向 同学
+root 。 客厅
+root 。 女生
+NA
+advcl 妹子 相处
+root 。 短信
+nmod 公寓 结构
+nsubj 电视 有
+conj 精力 钱
+nsubj 房东 招租
+advcl 卧室 采光
+NA
+case 向 邮箱
+nsubj 家具 是
+obj 置办 家具
+csubj 兼职 要求
+root ~ 麻烦
+obj 有 空调
+root ～ 位置
+nsubj 房子 包 
+NA
+conj 周末 傍晚
+NA
+NA
+obj 倾向 女生
+obj 配 家具
+conj 推荐 考虑
+nsubj 位置 方便
+root 。 房间
+root 。 有
+NA
+NA
+root 谢谢 ！ 柜子
+root 。 公寓
+acl:relcl 自用 空调
+nsubj 地下室 放置
+conj 家具 电器
+obj 在 能力
+root . 需求
+ccomp 议 给
+obj 加 书房
+obj 公用 卫生间
+nmod 村 公园
+nmod 英语 能力
+nsubj 公寓 为主
+nmod 大理石 橱柜
+acl:relcl 走路 距离
+root 。 上
+NA
+obj 学习 房子
+nsubj 客厅 出租
+nsubj 联系 看
+appos 可刀 邮箱
+root 。 有
+nmod 物品 部分
+dislocated 客厅 有
+root 龙骨 忘
+nsubj 床 需要
+nsubj 人 找
+NA
+nsubj 价格 便宜
+nmod 生活 用品
+nsubj 灰 感谢
+nmod 水电 煤气
+obl 朋友 交谈
+appos 商科 心理学
+nsubj 床头 桌 
+advmod 即时 开始
+obj 除 网络
+mark 也 住
+root 。 淋浴
+root 。 有
+obj 备注 租房
+obj 限 女生
+obj 看看 动漫
+nmod 厂 箱子
+obj 超过 刀
+nummod 四 个
+nmod 客厅 餐厅
+conj 卧室 卫生间
+csubj 毕业 搬家
+compound 独立 卫
+nmod 网上 现价
+advmod 房租 剩下
+nummod 第一 任
+nmod 大学 市场
+advcl 有 租
+nsubj 顶 一下
+advmod 相对 独立
+nsubj 同学 考虑
+obl 价格 商量
+nmod 前后 院子
+nmod 社区 之一
+root ！ 入住
+root 。 有
+nmod 卧室 拎包
+advcl 销售 兼职
+ccomp 除 瓷砖
+NA
+advcl 没有 只是
+obj 离开 时间
+advcl 干洗 运送
+obj 打 电话
+root 。 有
+root 。 地点
+nsubj 床 帘子
+obj 一下 租房
+det 对 地方
+nsubj 包 适合
+root ； 优先
+nmod 卧室 照片
+ccomp 有 有
+advcl 进 经过
+conj 餐厅 厨房
+root ； 提升
+advmod 很 大 的
+nsubj 采光 好 
+root 。 高中
+case:pref 好 能
+compound 物品 感
+nmod 生活 用品
+advmod 定期 参与
+root 。 限制
+amod 具体 信息
+root 嘛 ？ 出
+amod 好多 时间
+nsubj 好处 知道
+advmod 赶紧 入手
+nmod 地毯 地板
+nmod 卫生 条件
+nsubj 客厅 考虑
+root ！ 选择
+xcomp 介意 住
+root ？ 问
+case:pref 小 客厅
+root ！ 错过
+nmod 窗外 风景
+nsubj 女生 更好 
+nmod:tmod 最近 打
+nsubj 图片 链接
+nmod 化学 工程
+nsubj 本本 负荷
+mark 去 给
+parataxis 有 实惠
+obj 联系 陈
+nmod 中国 超市
+nsubj 你 好
+case 离 车站
+nmod:tmod 目前 好
+nmod 联系 方式
+parataxis 打扫 整洁
+nmod 外 俱乐部
+nsubj 习惯 续签
+nmod 生活 用品
+nmod 联系 方式
+conj $425 月
+advmod 理论 是
+obj 辨认 域名
+NA
+advcl 欢迎 咨询
+nmod 学校 保险
+compound 电气 网
+obj 写 邮件
+obj 发 邮件
+mark 也 相当
+nmod 厨房 用品
+nmod 隔壁 邻居
+obj 存在 问题
+amod 不良 嗜好
+aux 可否 租
+ccomp 有 是
+nmod 中央 空调
+mark 也 有
+ccomp 有 包括
+conj 行车 自行车
+NA
+NA
+conj 身房 公园
+advcl 厨房 宽敞
+nummod 一 楼
+NA
+compound 日本 车
+nmod 事故 记录 
+nsubj 你 好
+nmod 实验室 时间
+obj 前往 周边
+root 锅 锅
+conj 燃气 暖气
+NA
+nmod 一月 中旬
+nmod 工作 语言
+nmod 学校 北面
+nsubj 邮件 查收
+root 。 入住
+compound 中国 公
+NA
+det 这 间
+nmod 学校 返程
+compound 落地 灯
+nsubj 外面 草坪
+obj 在 国内
+mark 打 出来
+nummod 几 寸
+advcl 热心 提
+nummod 一 个
+nummod 两 个
+obj 有 沙发
+nmod 最后 周 
+NA
+aux 入住 即可
+nsubj 图片 显示
+obj 准时 准时
+NA
+mark 都 使用
+advmod 好 相处
+acl:relcl 出租 房间
+case:pref 微 信号
+xcomp 开始 出租
+obl 物业 登记
+root ！ 受骗
+xcomp 有 有
+nsubj 月 $680
+root 。 晒
+NA
+obj 有 椅子
+obj 收 钱
+nsubj 保养 适合
+obj 装 网络
+advmod 另外 研究
+nsubj 楼 留
+nmod 专业 本科
+obj 参加 老师
+nsubj 论坛 下载
+root ， 看看
+obl 情况 选择
+advcl 差 不去
+root ！ 联系
+nmod 生活 方便
+nsubj 厅 户型
+det 我 店
+nummod 一 对
+nmod 对手 情况
+root 。 对象
+root 。 共用
+nmod 联系 方式
+advcl 办公 需要
+nmod 地理 位置
+nmod 地下 层
+NA
+obj 死 全家
+root 。 送
+root ~ 顶
+obj 更换 机油
+xcomp 在 欢迎
+nmod 生活 规律
+xcomp 支持 一下
+root ！ 不尽
+NA
+conj 桌子 灯
+nmod 联系 方式
+mark 也 适合
+nmod 心中 价位
+obj 在 学校
+nsubj 家里 有
+obj 如说 学
+advmod 好 相处
+advcl 更新 一下
+root 。 探视
+obj 带 网
+root 。 走路
+xcomp 求 帮忙
+xcomp 求 加入
+nmod 客户 需求
+case:pref 微 信号
+nmod 变速 自行车
+obl 村子 去
+NA
+root ！ 入住
+NA
+obj 充满 争议
+case:pref 小 椅子
+nmod 小区 证
+appos 箱子 箱子
+compound 里程 票
+nmod 保险 专家
+obj 有 车位
+nsubj 老师 联系
+cc 到 车站
+nummod 一 个
+parataxis 房间 厨房
+xcomp 因为 没有
+nummod 两 个
+nmod 生活 设施
+nmod 视野 范围
+aux 可以 联系
+nsubj 照片 请
+NA
+nmod 研究 项目
+NA
+csubj 问 小区
+NA
+csubj 租 有
+obj 租 月
+NA
+root ！ 商品
+NA
+obj 赠送 朋友
+nmod 公寓 吊顶
+nsubj 沙发 出
+acl:relcl 有 朋友
+obj 需要 柜子
+nsubj 楼 主
+root 。 用
+NA
+acl:relcl 转让 信息
+nmod 联系 方式
+nmod 咨询 公司
+root 。 查看
+nmod 吸尘器 原价
+advcl 商量 送给
+compound 发 图
+parataxis 家具 床
+nmod 联系 方式
+aux 可以 开始
+nmod 链接 信息
+nsubj 楼 喜欢 
+nummod 一 间
+nummod 一 个
+compound 健身房 游
+nmod 租房 信息
+nmod 车辆 功能
+root 。 提供
+xcomp 求 收购
+nmod 小区 部位
+amod 包 网
+nsubj 功能 做 ！
+obj 达 小时
+nmod 男生 女生
+NA
+advcl 推荐 不错
+advcl 往返 商议
+nmod 驾驶 功能
+root 。 参观
+aux ◆ 办理
+nmod 苹果 键盘
+amod 代表性 论文
+nsubj 胎 在
+case:pref 大 邪教
+nmod 更新 电扇
+obj 租 房子
+obj 写真 服务
+nsubj 哈哈 了解
+root 。 重
+nmod 八月 中旬
+amod 优质 环境
+aux 想 联系
+ccomp 有 谢谢
+NA
+NA
+acl:relcl 知道 人
+nsubj 卧室 出租 的
+conj $320 月
+nmod 保养 记录
+root 。 到
+root 女生 限
+obj 问 地址
+NA
+root 方式 给
+nummod 两 室
+root 。 小区
+nsubj 朋友 聚餐
+nsubj 餐具 送
+xcomp 求 删除
+ccomp 出租 ， 需要
+obl 者 联系 
+xcomp 求 指教
+obj 更换 机油
+aux 可 联系
+compound 洗衣 篮
+nmod 颜色 衣服
+root . 选
+obj 说明 地址
+amod 绝对 正品
+root 。 带
+NA
+nmod 原价 $525
+root ； 厨房
+nsubj 厨房 客厅
+nsubj 家具 折价
+obl 月 更换 
+nmod 菜 拖车
+nummod 一 位
+case:pref 主 点
+compound 健身 卡
+root 。 频繁
+obj 看 图片
+obj 提供 信息
+obj 联系 口语
+NA
+nsubj 老板 办事
+NA
+root 。 申请
+acl:relcl 打 朋友
+NA
+nummod 一 位
+amod 共享 浴室
+advmod 不 在
+nsubj 人 居住
+nummod 一 间
+conj 装修 的 设施
+NA
+nmod 草坪 护理
+mark 也 需要
+parataxis 有 方便
+obl 村里 搬出 
+det 各 款
+nsubj 人 不对 
+NA
+nmod 联系 方式
+case:pref 小 公园 
+nmod 九月 上午
+advmod 直接 交给
+NA
+obj 没有 附件
+advmod 正常 工作
+ccomp 比如 骗子
+NA
+acl 行车 辆
+nmod 学生会 优先
+conj 热心 负责
+obj 有 发
+conj 卧室 客厅
+root 。 没有
+NA
+xcomp 看 一下
+obj 确定 行程
+nsubj 硕士 加盟
+root 啦 ！ 毕业
+conj 学者 博士
+root 。 更新
+xcomp 烧烤 散步
+obj 晒 被子
+nsubj 设施 齐全
+NA
+root ！ 品尝
+nmod:tmod 分钟 走路
+root 。 有
+nsubj 沙发 适合
+nmod 钓鱼 邮件
+nmod 厨房 空间
+case:pref 短 联系 
+nummod 多少 刀
+obj 有 公园
+root . 邮箱
+nsubj 车 比较
+xcomp 恳请 迷津
+obj 看 车
+advcl 带 入住
+root 。 防止
+nmod:tmod 期间 陪练
+nsubj 父母 工作
+obj 有 公园
+obj 有 问题
+ccomp 请 询问
+obl:patient 车 停
+obj 打 乒乓
+NA
+nsubj 卧室 入住 
+obj 有 意向
+NA
+root ~ 好
+NA
+csubj 谢谢 知道
+root 。 管理
+nmod 客户 心理
+amod 绝对 卫生 
+NA
+obj 去 超市
+NA
+nmod 月 钱
+amod 具体 信息
+nsubj 房子 转让
+amod 透明 模式
+obj 养 宠物
+compound 独立 卫
+nmod 学校 北边
+root 。 环境
+nmod 必备 知识
+nmod 应变 能力
+obj 租 月
+nmod 月 房租
+nmod 邮件 地址
+nmod 联系 方式
+nsubj 类别 如下
+nmod 口语 会话
+conj 高速 村里
+nsubj 浴室 是
+nsubj 床 一样
+det 一切 生活
+xcomp 不用 无线
+NA
+NA
+nsubj 您 好 
+root 好 好
+ccomp 想 失望
+nsubj 房子 在
+advcl 意愿 致力
+nsubj 我 拿
+root 。 小区
+nsubj 房屋 租赁
+nsubj 你 有
+nmod 驾照 考试
+nsubj 楼 可以
+obj 出 费城
+obj 有 空间
+nmod 短信 联系
+nmod 公交 车站
+obj 使用 月
+amod 好 连城
+mark 也 联系 
+conj 公用 搭伙
+NA
+amod 私人 小区
+obj 没有 事
+amod 安静 女生
+nsubj 您 好
+nsubj 家具 齐全
+case:pref 小 公园
+nmod 学校 图书馆
+nmod:tmod 前后 置换
+NA
+obj 考 驾照
+advcl 让 是
+nmod 社区 环境
+compound 公交 币
+case:pref 新 老生
+NA
+nsubj 车 少 
+nsubj 你 好
+nsubj 地址 商议
+root . 联系
+obj 有 游戏
+root 便宜 便宜
+obj 感谢 关注
+obj 有 卫生间
+advmod 许久 传
+obj 出售 台
+NA
+amod 真正 拎包
+nmod 卫生间 浴室
+nummod 一 把
+nmod 床单 枕套
+ccomp 勿 谢谢
+amod 紧张 方式
+nmod 屋 客厅
+root 。 女生
+root 。 需要
+obj 去 纽约
+nsubj 骗子 联系
+root ？ 去看
+root 。 忘记
+nsubj 车子 制造
+nsubj 费用 算
+amod 合理 计划
+obj 剩 红色
+conj 冰箱  微波炉
+NA
+nmod 肯尼迪 机场
+nsubj 邮件 联系
+advcl 认真 清晰 
+nsubj 交通 方便
+nmod 生活 用品
+nsubj 学业 繁重
+amod 愉快 生活
+NA
+obj 有 狗
+advcl 全新 没有
+advcl 代办 入住
+obj 有 公园
+advcl 有意 联系
+nsubj 你 好
+root 问题 没
+nsubj 机会 难得
+nsubj 租金 接受
+nsubj 房 卫 
+nmod 代步 工具
+obj 减少 房租
+xcomp 有 联系
+nsubj 照片 里面
+nmod 新人 有用
+nmod 华人 留学生
+aux 可以 呀
+case:pref 主 一月
+nmod 车主 习惯
+nmod 厨房 客厅
+obj 在 美国
+obj 不分 ， 题目
+NA
+obj 添置 东西
+nmod 出行 日期
+nmod 雨 顶
+nmod 身份 证明
+nmod 联系 方式
+nsubj 车 也 可
+nmod 短期 医保
+advcl 有意 联系
+obl 现在 入住 ，
+advmod 时间 试车
+nmod 暑假 周
+nsubj 柜子 出售
+nsubj 房子 是
+conj 电话 邮件
+compound 油 费
+nsubj 短信 请
+acl:relcl 出租 同学
+nmod 小区 环境
+obj 步行 小区
+nsubj 图片 链接
+nmod:tmod 最后 喜欢
+nmod:tmod 初 问好
+advcl 作息 相处
+nmod 联系 方式
+nmod:tmod 月 -30
+nsubj 留学 申请
+conj 厨房 客厅
+obj 租 月
+obl 租车 即可
+xcomp 没有 维修
+NA
+obj 无 嗜好
+det 其余 信息
+nmod 图片 链接
+nmod 修改 工作
+nmod 晚饭 时间
+root 。 联系
+NA
+det 你 邮件
+compound 细节 楼
+obj 有 兴趣
+root ！ 查看
+root ? 方式
+nmod 连接 看看
+NA
+nmod 地方 洗漱
+nummod 一 辆
+obj 找 房子
+nsubj 东西 留下
+nmod 小区 环境
+obj 含 卫生间
+nsubj 房间 转让
+nummod 一 个
+amod 最高 小区
+xcomp 回国 准备
+nmod 条件 学生
+nmod 费城 点
+obj 租 月
+acl:relcl 开 价格
+nmod:tmod 暑假 寄放
+nummod 一 个
+nsubj 人 推荐
+NA
+nsubj 外观 说
+advmod 不 闹
+obj 成 打印机
+compound 交换 车
+obj 出售 二手
+compound 洗衣 房
+NA
+ccomp 有 出售
+NA
+csubj 毕业 搬家
+nmod 空调 暖气
+nmod 周围 邻居
+obj 看 房
+nsubj 网站 屏蔽
+nsubj 价格 议
+nmod:tmod 近期 回国
+obj 租 房
+obj 去 学校
+obj 需要 路由器
+advmod 约 时间
+amod 合适 人
+aux 主 提供
+advmod 不 议价
+mark 都 带
+ccomp 希望 送到
+obj 提供 培训
+nmod 国际 组织
+amod 不同 问题
+case:pref 纯 羊毛
+nmod 客户 经验
+nsubj 书桌 留给
+obj 点击 下面
+nmod 农业 人才
+advcl 了解 做
+nmod 联系 电话
+nsubj 你 好
+NA
+nsubj 我 租
+NA
+nmod 物品 照片
+nsubj 人 有
+nmod 清洁 卫生
+nummod 一 个
+nsubj 我 懂
+root ~ 崭新
+nmod 电 钢琴
+obj 插 钱
+nmod 付款 方式
+amod 独立 阳台
+root 。 留
+mark 也 没
+advcl 齐全 无需
+nmod 前后 caps
+obj 学习 乐器
+nmod 中国 学生
+NA
+amod 相关 经验
+obj 递交 材料
+amod 专业 教练 
+root 校园 校园
+obj 提供 价位
+obj 面对 公园
+advcl 镜子 精美
+nmod 鞋 架子
+nsubj 你 好
+nmod 厨房 设备
+nsubj 各位 好
+nsubj 家具 包含
+nsubj 你 好
+nmod 房屋 保险
+case 从 现在
+NA
+NA
+case 根据 需要
+advmod 新 加
+nmod 东方 附近
+root 。 拉线
+NA
+nsubj 月 超过
+compound 身份 者
+obj 培养 博士
+obj 带 家具
+obj 买 票
+root 。 要求
+obj 租 年
+NA
+NA
+obj 保证 卫生
+obj 有 图片
+nsubj 保险 没
+advcl 忘记 出租
+compound 里程 数
+NA
+case 离 站台
+case:pref 小 地方
+nsubj 餐桌 配
+nsubj 卧室 卫生间
+root 。 客厅
+nsubj 东西 爱惜
+amod 最高 住处
+csubj 欢迎 联系 ，
+obj 有 车站
+advcl 入住 买
+nmod 书架 书桌
+advmod 很 给
+nummod 四 张
+obj 出门 街
+root . 房租
+compound 实物 图
+amod 主要 居民
+nmod 基本 拎包
+NA
+nmod 游泳 俱乐部
+nmod 基本 家具
+compound 密封 盒
+nmod 煤气 网络
+advmod 全新 装修
+nmod 电邮 hk
+nsubj 你 加
+nmod 灯 照明
+advmod 原来 留下
+nsubj 椅子 放
+nsubj 位置 好
+nmod 租房 信息
+appos 房间 客厅
+nmod 塑料 泡沫
+conj 情侣 朋友
+root 户型 户型
+obj 做 东西
+nsubj 衣架 若干
+nmod 电脑 同学
+case:pref 大 厨房
+nmod 基础 家具
+nmod 厨房 面
+nmod 公寓 交通
+nmod 购买 时间
+root 。 安静
+nsubj 视野 开阔
+advmod 大概 1
+aux 请 告知
+xcomp 提供 安装
+advmod 既可 晾晒
+obj 联系 图
+NA
+obj 收 同学
+appos 电器 乐器
+nmod 月 房租
+nmod:tmod 之后 进入
+NA
+root 。 家具
+nsubj 同学 详见
+advmod 全 包 
+root 。 继续
+nsubj 房间 大 
+appos 顶 顶
+nsubj 客厅 大 
+root 。 有效
+nsubj 温度 调节
+amod 正经 喷头
+root ； 餐厅
+parataxis 固定 打扰
+root 。 装修
+root ！ 有效
+case:pref 新 程度
+advmod 免费 上网
+amod 素雅 墙纸
+case:pref 好 房子
+nmod 更新 内容
+nsubj 兴趣 联系
+appos $20to 月
+nmod 中国 学生
+nsubj 兴趣 联系
+nmod 太太 方式
+nmod 出租 期间
+nmod:tmod 暑假 空
+obj 有 打印机
+nmod 公寓 环境
+obj 打 短信
+nsubj 美国人 友好
+case:pref 小 茶几
+nmod 家人 幸福
+parataxis 地下室 区域
+amod 独立 柜 
+mark 就 有
+nmod 租金 $1420
+root 商量 如图
+obj 看 房
+nmod 独立 空间
+compound 毕业 季
+advcl 步行 大
+obj 有 窗户
+nmod:tmod 月 不用
+root . 基础
+NA
+conj 交通 照片
+obj 换 了 轮胎
+root 。 好
+cc 和 后院
+amod 独立 洗衣机
+NA
+amod 宽敞 客厅
+det 此 主犯
+root 租房 验证
+root 客厅 视
+nmod 正规 合同
+root 。 包括
+compound 包围 式
+conj 火锅 锅
+nsubj 花园 烧烤
+NA
+advmod 特别 好
+advmod 在 继续
+advmod 最好 搬 
+nmod 天 收费 
+root 。 充足
+obj 相当于 房间
+NA
+NA
+nsubj 煤气 包 
+advmod 全 包 
+advcl 读书 学习
+NA
+obj 有 洗手间
+NA
+root 。 放松
+compound 步行 匹
+nsubj 兴趣 联系
+NA
+root 物品 搬家
+nsubj 家具 齐全
+obj 看 房子
+obj 有 保障
+compound 独立 锁
+nmod 公寓 设施
+root 。 准备
+parataxis 期限 月
+nmod 空调 暖气
+advmod 非常 舒适
+root ： 类别
+case:pref 大 抽屉
+obj 有 车库
+advcl 买 便宜
+aux 可能 用到
+root ？ 住
+nsubj 图 有
+parataxis 议 承担
+amod 有效 日期
+conj 客厅 厨房
+root 。 作废
+xcomp 回复 请
+obj 买 东西
+nmod 户型 介绍
+NA
+nmod 吸尘器 微波炉
+root 。 靠近
+NA
+advmod 很 好 
+obj 有 电梯
+root 。 户型
+nsubj 租金 月
+nmod 部分 家具
+NA
+root 厅 房间
+advmod 很 大 的
+nsubj 厅 卫 
+nmod 地下室 空间
+nsubj 租金 商量
+obj 朝向 南
+case:pref 新 装修 的
+obj 有 图片
+clf 本 小说
+root 。 有
+nmod 厨房 厕所
+xcomp 希望 女生
+nmod 电子 秤
+advmod 非常 方便
+nmod 基本 家具
+nummod 发 个
+obj 有 图片
+NA
+conj 卧室 卫生间
+compound 停车 库
+nsubj 公园 还有
+mark 方便 至
+case:pref 长 租
+nsubj 要求 如下
+nummod 举 个
+compound 直达 匹
+advmod 已 出售
+nmod 联系 方式
+amod 宽敞 客厅
+nmod 走廊 照片
+obj 归 管
+nsubj 传 照片
+root ！ 方便
+root 。 给予
+nsubj 家具 留下
+advmod 免费 停
+nmod 地毯 衣柜
+NA
+root 调 附送
+nmod 产品 网址
+root ； 安静
+compound 瑜伽 球
+nmod 周边 餐馆
+nsubj 公寓 由
+obj 担心 地方
+obj 无 期限
+obj 带 男生
+conj 学 房客
+root 。 结构
+appos 卧室 卧室
+amod 干净 柜子
+nsubj 客厅 出租 
+nmod 床上 用品
+nsubj 拎包 入住
+obj 住 客厅
+obj 用 屏风
+root ： 有些
+NA
+nsubj 公寓 养
+nsubj 公交 制约
+obj 有 架子
+nsubj 照片 层
+advmod 很 新 
+NA
+advcl 找 抱着
+obj 送 家具
+NA
+nsubj 男 毕业生
+case:pref 大 衣柜 
+nsubj 大学 出版社
+cop 为 信息
+nsubj 价格 面议
+nmod 出租 价格
+compound 住 匹
+xcomp 就是 让
+nmod 客厅 餐厅
+root 。 卧室
+det 这些 费用
+nmod 卧室 大小
+advcl 到 打
+case:pref 大 衣柜
+aux 要 去
+root ： 东西
+compound 日 租
+nsubj 家具 甩卖
+nsubj 车 好
+nsubj 房型 如图
+obj 买 微波炉
+case:pref 小 院子
+obj 享受 冷气
+nmod 时间 人数
+NA
+NA
+NA
+case:pref 大 餐桌 
+root . 攻防
+obj 有 房间
+advcl 简介 分析
+obj 有 车位
+NA
+root ? 看
+nmod 租房 信息
+nmod 房屋 客厅
+obj 适合 学习
+advcl 旧 吵 
+nsubj 邮件 联系
+obj 需要 家具
+obj 有 兴趣
+nmod 房屋 照片
+root 篮 洗
+root ～～～ 谢谢
+nmod 户型 图片
+root ！ 齐备
+nsubj 价格 商议
+nsubj 公司 概括
+nsubj 冬 有
