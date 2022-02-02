@@ -1,0 +1,1579 @@
+compound 社区 富人
+nsubj 商量 租约
+nsubj 有 房子
+obj 有 浴室
+nmod 家具 房子
+compound 阳台 阳台
+compound 空调 窗口
+advmod 入住 灵活
+advcl 欢迎 发送
+compound 社区 富人
+nsubj 商量 租约
+nsubj 有 房子
+obj 有 浴室
+nmod 家具 房子
+compound 阳台 阳台
+compound 空调 窗口
+advmod 入住 灵活
+advcl 欢迎 发送
+ccomp 发送 发送
+amod 。 私人
+nummod 浴 半
+advmod 上网 免费
+advcl 贵 共用
+advmod 还 好
+nmod 房间 客厅
+advmod 走了 全部
+nsubj 商量 宠物
+nmod 欢迎 发
+acl:relcl 想 退还
+nmod 顶楼 景观
+nmod 有 浴室
+nsubj 居住 情侣
+nmod 停车 路
+xcomp 要求 禁止
+nsubj 里面 房子
+obj 帮忙 门卫
+obj 签 租约
+amod 好 好好
+nmod 有 门卫
+nummod 经历 一
+advcl 贵 共用
+nsubj 安静 街区
+root 装修 装修
+advmod 有家具的 完整
+nmod 房间 住宅
+clf 一 套
+nsubj 灵活 资金
+compound 。 步入
+nmod 联系 邮箱
+nmod 办公室 租约
+root 好 好
+nmod 欢迎 发
+nsubj 大小 标准
+nsubj 户外 室内
+amod 专业 年轻
+advcl 人 共用
+nmod 客厅 客厅
+obj ？ 设施
+det 就 整套
+nsubj 出租 房屋
+nmod 完全 房屋
+conj 门 露台
+obj 面试 录取
+aux 。 可
+root 包含 包含
+advmod 容易 很
+nmod 开 派对
+mark 欢迎 来
+nmod 不 公用
+nsubj 有 公交
+case:pref 办公室 总
+case:dec 前 的
+case:pref 大小 小
+amod 打 打
+amod 专业 年轻
+root 电器 共用
+advmod 机 自动
+nmod 齐全 房子
+nmod 床上 标准
+nsubj 有 街区
+case 恰当的 关于
+nmod 衣橱 卧室
+obj 在 房子
+cop 干净 改造
+advmod 停车 免费
+nsubj 不错的 经理
+compound 洗衣房 地下室
+nmod 经理 物业
+nmod 包 房间
+nmod 车库 房子
+nmod 大小 标准
+nmod 甲板 双层
+compound 邮箱 邮箱
+nsubj 有 房子
+nmod 有家具的 家具
+xcomp 夏天 更新
+advmod 公用事业公司 不
+obj 开 派对
+nsubj 享受 公寓
+nsubj 顶 更新
+advcl 玩 玩
+nsubj 是 公寓
+root 入住 入住
+advmod 容易 很
+root 公寓 公寓
+nummod 。 一
+nmod 和 休闲
+compound 有 步入
+nmod 有 火炉
+advmod 男生 更
+det 可以 整
+amod 大小 特大
+nmod 房间 公寓
+nsubj 租 房子
+det 全 各
+csubj . 房子
+clf 个 整个
+nmod 入住 房子
+nmod 如有 发
+obj 。 支票
+compound 计划 户型
+compound 有 门卫
+nmod 内部 房子
+nsubj 幽静 房子
+obj 开 派对
+csubj 女生 共用
+obj 餐厅 酒吧
+conj 适合 情侣
+obj 接 租约
+det 每 各
+advmod 较低的 越
+nmod 介绍 公寓
+nmod 的 联合
+nsubj 发 邮件
+xcomp 允许 允许
+obj 浴室 浴室
+nmod 房子 气氛
+nsubj 房间 房子
+root 位于 位于
+nmod 齐全 房子
+case:dec 更新 的
+det 个 整个
+xcomp 认为 诈骗
+root 不错的 备注
+obj 观照 房子
+aux . 可
+nmod 结构 房子
+det ， 整套
+det 月 每
+nsubj 有 门卫
+obj 户外 室内
+nmod 有 衣柜
+nmod 个数 卧室
+nsubj 可以 公寓
+nmod 租赁 暑期
+nmod 留言 发
+nsubj 房子 市内
+root 户型 户型
+nmod 沟通 发
+root 您 看见
+compound 包 电气
+nmod 照片 大厅
+obj 在 租约
+nmod 。 服务
+nmod 楼 房子
+obj 进出 大堂
+amod 女生 优先
+root 感兴趣 发
+nsubj 和 户型
+nsubj 有 门卫
+obj 签到 租约
+nmod 水电 公寓
+obj 有 车库
+advcl 洗手间 共用
+root 找到 找到
+det 个 整个
+cc 房子 或者
+nsubj 有 房子
+obj 走 街区
+obj 多 街区
+nmod:tmod 顶 目前
+compound 联系 邮箱
+nmod ， 价格
+nmod 大小 标准
+nmod 办公室 租赁
+det 进门 整
+nsubj 服务 门卫
+advmod 清洁 完全
+advmod 一起 一起
+nmod 出租 房子
+compound 有 步入
+aux 。 可
+advmod 免费的 免费
+compound 代 房子
+det 网络 各
+det 包 各
+nmod 入住 入住
+obj 有 车库
+xcomp 无需 订金
+root 公寓 公寓
+nmod 住 房子
+nsubj 有 房子
+nsubj ， 人
+amod 的 特大
+case:pref 。 非
+root 好 好
+obj 住 餐厅
+nmod 1 卧室
+advmod 停车 户外
+root 卧室 卧室
+det 个 每个
+compound 非常 步入
+det 加 每
+nsubj 好 公寓
+advcl 用 不用
+nmod 大小 标准
+xcomp 是 共用
+nmod 大小 标准
+advmod 良好 好
+obj 确定 审查
+nmod 大 房子
+nmod 厨房 浴室
+nmod 大 房子
+nmod 供 房子
+nsubj 非常 户型
+nmod 齐全 房子
+nmod ， 污水
+nmod 包括 纸巾
+nmod 有意 发
+root 用 共用
+root 姐姐 好
+nmod 里面 房子
+det 。 每
+nsubj 房子 房子
+nsubj 住 房子
+advcl 分享 共用
+acl:relcl 帖子 发布
+nmod 名字 公寓
+obj 大小 标准
+ccomp 洗手间 共用
+nmod 为 房子
+obj 有 房子
+xcomp 好 善良
+nsubj 负责 公寓
+nmod 三 房子
+obj 收到 邮件
+nmod 环境 附近
+nmod 大小 标准
+nmod 想 发
+root 卧室 卧室
+nsubj 放 衣柜
+nmod 有 福利
+nsubj 有 地下室
+nsubj 租约 租约
+amod 维修 好
+nmod 费 房子
+nmod 安静 位置
+advmod 厨房 共
+obj 有 体育场
+nsubj 位 房子
+nsubj 暑假 房子
+nmod 网址 公寓
+advcl 带 带
+clf 一个 周
+compound 。 盥洗
+nsubj 房子 房子
+obj 了 公寓
+advcl 公寓 租
+xcomp 公园 临街
+nmod 独立 房子
+obj 公共汽车 巴士
+conj 联系 发
+advcl 想 租约
+nsubj 有 公园
+nmod 复式 复式
+nmod 非常 物业
+nmod 里面 房子
+root 房子 房子
+nmod 楼 房子
+nmod 楼 房子
+advcl 不错 视野
+nmod 大小 标准
+nmod 大小 标准
+nsubj 与 客厅
+obj 查看 户型
+nmod 拥 公寓
+compound 房子 住房
+nmod 门口 房子
+nsubj 带 车库
+root 灵活 灵活
+nmod 大小 标准
+nsubj 管理 公寓
+nsubj ， 公寓
+nsubj 居室 公寓
+root 空缺 空缺
+compound 壁橱 步入
+nsubj 住 街区
+nmod 巨大 公寓
+root 房东 很好
+nsubj 男 房子
+nsubj 一 房子
+clf 睡 房间
+obj 花 钱
+nmod 警报 犯罪
+compound 一 独
+obl 联系 邮件
+nmod 水 配套
+nsubj 出租 房子
+nummod 免费 独
+advmod 大小 较
+compound 卫生间 化妆
+compound 卫生间 化妆
+obj 都 家具
+root 年代 房子
+nsubj 出入 公寓
+nsubj 房间 客厅
+compound 齐全 淋浴
+conj 留下 邮件
+nsubj 留言 邮件
+nsubj 联系 邮件
+compound 计划 户型
+nsubj 有 房子
+nmod 里面 房子
+nsubj 房子 房子
+compound 租赁 年
+advmod 和 免费
+nmod 房型 房子
+compound ； 洗衣机
+nsubj 宠物 禁烟
+nsubj 联系 邮件
+nmod 出租 主题
+nmod 有 餐厅
+amod 紧凑 紧凑
+nmod 房子 房子
+root 松鼠 房子
+nmod 联系 邮件
+ccomp 是 好
+nsubj 有 操场
+advcl 包括 精装
+nsubj 参加 会计
+nmod 含 卧室
+compound 计划 户型
+xcomp 有 聚会
+nsubj 有 房间
+obj 开 派对
+nmod 相比 配套
+nmod 选择 中餐
+obj 有 阳台
+root 我们 备注
+nmod 住房 公寓
+nmod 联系 邮件
+nmod 想 邮件
+nmod 三 房子
+compound 有 地下室
+nmod 联系 邮件
+case 大小 较
+nmod 里面 地下室
+nmod 状况 房子
+nmod 看 租约
+root 共享 共享
+obj 带 车库
+compound 计划 户型
+nsubj:pass 被 厨房
+advmod 会 好
+nsubj 房子 房子
+nsubj 在 卧室
+advcl 许可证 停车
+clf 租 房间
+nsubj 剩 租约
+compound 交界 中央
+xcomp 之 聚会
+xcomp 。 共享
+nsubj 建筑 公寓
+nsubj 房间 厨房
+obj 签 租约
+nsubj 结束 租约
+nsubj 出租 房子
+nsubj 房间 客厅
+obj 介绍 公寓
+acl:relcl 的 折扣
+root 房子 房子
+obj 找到 房子
+nsubj 你能 邮件
+nmod 一 房子
+nmod 。 窗户
+nmod 里面 房子
+nmod 里面 房子
+nmod 出租 房子
+advmod 大小 较
+obj 留下 邮件
+nmod 位置 房子
+nsubj 有 房子
+root 注意 套间
+nmod 你能 邮件
+NA 顶 空余
+compound 有 地下室
+nsubj 省 钱
+nmod 学生 安全
+acl:relcl 人 想要
+root 打 打
+root 仅限 仅限
+nmod:tmod 实用程序 月
+nmod 小 台灯
+obj 操心 账单
+nsubj 是 租约
+advmod 卫生间 共
+advmod 大小 较
+nsubj 安静 邻里
+amod 门房 好
+nsubj 看 模式
+obj 租 客厅
+nummod 公寓 一
+obj 住 客厅
+nsubj 有 地下室
+root 公寓 公寓
+nsubj 出来 卧室
+nsubj 位于 公寓
+root 包租 保持
+root $200 月
+nsubj 在 公寓
+case 大小 较
+root 晚饭 晚饭
+advmod 大小 最
+nmod 大概 房间
+obj 交 存款
+root 是 你
+nsubj 有 公寓
+ccomp 认为 客厅
+nsubj 公寓 房子
+nmod 一样 房间
+nmod 房子 房子
+nmod 一个 价格
+conj 加 使用
+obj 独立 房子
+root 带 免费
+root 修理 修理
+mark 复苏 还原
+nmod 管理 资产
+acl:relcl 区域 共享
+root 独立 房子
+root 租约 租约
+nsubj 。 房间
+nmod 公寓 公寓
+nsubj em@90 邮件
+det 套 整套
+nsubj 有 房子
+conj 住 情侣
+xcomp 么 使用
+nmod 房间 房间
+obj 发 邮件
+case 我 关于
+nsubj 包括 公寓
+compound 包 燃气
+compound 带 地下室
+nsubj 欢迎 邮件
+nmod 有 空调
+root 客厅 客厅
+nsubj 很大 客厅
+nmod 有 餐厅
+nmod:tmod 读书 夏季
+advmod 大叔 好
+root 好 好
+nmod 客厅 房子
+nsubj 喜欢 公寓
+conj 赠送 甩卖
+compound 非常 管理人
+nmod 及 卧室
+advcl 便宜 无
+advmod 好 好
+obj 签 租约
+nsubj 带 卧室
+root 卧室 卧室
+acl:relcl 同学 购物
+nsubj 找 房子
+conj 都 共享
+nmod 现货 停车
+nsubj 8 租约
+ccomp 落脚 分享
+obj 住 公寓
+nmod 有 客厅
+nsubj 使用 床单
+nmod 镜子 婴儿
+nsubj 想 邮件
+nmod 大小 屏幕
+advmod 紫色 紫色
+compound 保养 卖
+advmod 好 好
+nsubj 提交 花园
+nsubj 给 经理
+obj 写 论文
+compound 房子 住房
+amod 无 无
+nmod 计划 家庭
+root 车况 无
+root 促销 促销
+obj 裙子 装饰
+nsubj 董事会 白板
+obj 添加 列表
+nsubj 。 车况
+nmod 座位 婴儿
+csubj 卖 销售
+obj 出售 风扇
+obj 打开 按键
+nsubj 的 检查
+nsubj 首选 联系
+advcl ， 提前
+obl 交 套餐
+advmod 只有 只
+root 空闲 空闲
+root 显卡 整合
+nmod 联系 邮件
+obj 界定 责任
+ccomp 做 汽车
+root 67,500 英里
+nummod : 几
+nmod 大小 标准
+nsubj 车主 车主
+nsubj 出售 搬家
+compound 大小 较大
+nmod 代码 地区
+advcl 看到 链接
+nummod 。 第二
+nmod 大小 标准
+root 无 无
+advmod 大小 较
+nsubj 发给 信息
+nsubj 谢谢 讯息
+nmod 。 耳机
+compound 灯 读书
+root 领取 领取
+conj 支付 支票
+root 显示 视网膜
+nsubj 火炉 火炉
+nmod 存放 苏打
+nsubj 可以 邮件
+obj 住 公寓
+amod 无 无
+root 毕业 销售
+obj 台灯 编程
+obj 还在 盒子
+case 住 自
+parataxis at&t 计划
+nmod 出售 庭院
+ccomp 有 无
+xcomp 说 打
+obj 买 外罩
+xcomp 有 谢谢
+det 大小 较
+obj 大 大小
+obj 发 帖子
+csubj 出售 持续
+obl 回帖 帖子
+nmod 问题 修理工
+root 出售 持续
+nsubj 甩卖 甩卖
+csubj 出售 持续
+advcl 送 更新
+nummod 大小 双
+nsubj 说 条件
+advcl 出售 持续
+nmod 以上 标准
+nmod 大小 标准
+obj 行 漏洞
+acl 公寓 公寓
+acl:relcl 面试 说
+nmod 一 证明
+compound 美元 校内
+root 停车 停车
+nmod 公寓 门禁
+nsubj 可以 公交
+nmod:tmod 去 夏季
+nmod 挑战 大学
+compound 上路 停车
+nmod 计划 家庭
+root 问 确认
+ccomp 太太 友善
+nmod 吗 肯尼迪
+nmod 的 肯尼迪
+nsubj ， 大家
+root 校区 在
+nmod:tmod 学期 秋季
+nmod 停车 访客
+root 相处 友善
+nmod 是 租房
+compound 毕业 研究生
+nmod 需要 文书
+nmod ? 租房
+nmod:tmod $700 月
+ccomp 去 报价
+obj 开 派对
+root 租金 租金
+obl 有家具的 全家
+nmod 时间 暑假
+nmod ， 租房
+ccomp 去 办公室
+compound 和 研究生
+appos 浴室 博士生
+compound 单位 街角
+nmod 办公室 租房
+nsubj 有 博士
+amod 停车 免费
+aux 衣橱 可
+cop 干 是
+nmod 新生 暑期
+advmod 有 已
+ccomp 租车 购买
+nsubj 安静 楼
+conj 往返 搭车
+xcomp 提供 搭车
+obj 博士学位 硕士
+root 需要 博士生
+nmod 有 博士生
+nmod 不 肯尼迪
+nmod ， 拖车
+nmod ， 你
+nmod 签约 物业
+nmod 。 租房
+root 房子 房子
+nmod 还在 更新
+nsubj 联系 住房
+nummod 三月 三月
+nmod 签约 物业
+nmod 公寓 帕克
+nmod 联系 邮件
+nmod 已 美国
+nsubj 玩耍 牧场
+nmod 签 官方
+xcomp 卫生间 共用
+csubj 房租 押金
+nmod 拎包 微波炉
+xcomp 提供 搭车
+nummod 为 一
+acl:relcl 淡定 好
+nummod 有 一
+nummod 的 一
+obj 免费 派对
+mark 1 便携式
+csubj 联系 搭车
+compound 可以 轮流
+obj 开车 暑期
+root 耐心 开心
+advmod 好 好
+advmod 来 怎么
+advmod 犹豫 别
+acl:relcl 同学 搭车
+compound 大部分 顺风
+xcomp 问 搭车
+nmod 签 小区
+xcomp 求 搭车
+nsubj 托运 托运
+advcl 来临 搭车
+obl 博士生 博士生
+nmod 无 派对
+obj 给 代理
+nsubj 属于 代理
+obj 换 代理
+case 我 顺便
+root 错了 限制
+nmod 的 代理
+obj 不 代理
+nsubj 说 代理
+xcomp 叫 诽谤
+obl 负责 言行
+advcl 诽谤 诽谤
+xcomp 混淆 诽谤
+nmod 能 官方
+nmod 。 覆盖
+det ！ 我
+nmod 续签 小区
+amod 信息 更新
+ccomp 卫生间 共用
+compound 地址 邮箱
+compound 需要 公交
+nmod 如何 物业
+nmod 问题 最后
+appos 有 浴缸
+compound 提供 访客
+xcomp 提供 搭车
+compound 博士生 博士生
+obj 开 派对
+aux 赞成 不要
+nmod 每天 移民
+root 打包 免费
+root 拍照 免费
+xcomp 提供 搭车
+nmod 准备 账单
+obj 模型 模式
+compound 问题 间接
+nmod 旁边 大楼
+compound 洗衣房 地下室
+nsubj 有 小区
+acl:relcl 男生 分摊
+amod 夫妇 年轻
+amod 宏大 宏大
+obj 和 风门
+acl:relcl ， 搭车
+xcomp 求 搭车
+xcomp 求 搭车
+nmod 至 电子
+nmod 社区 圆形
+amod 好 好
+compound 联系 办公室
+xcomp 求 搭车
+compound 求 搭车
+root 优美 友善
+NA 开 派对
+amod 一个 唯一
+ccomp 的 录取
+nsubj 。 时间
+det 时间 全日制
+nmod 项目 小组
+obj 作业 测验
+obj 保险 财产
+nmod 租房 租房
+nummod 家具 二
+nmod ， 客厅
+root 。 有
+nmod ， 租房
+nsubj （ 汽车
+compound 通过 搭车
+nmod 可以 租房
+nmod 软 媒体
+csubj 什么 跳舞
+appos 博士生 博士生
+csubj 有 处理
+nmod 租 卧室
+root 主题 主题
+root 表演 表演
+nmod 期间 期末
+advcl ， 调制
+nsubj 在吗 证
+xcomp 了 有
+obj 43 尺寸
+nmod 停车 访客
+compound 有 换
+advcl 有 友善
+nsubj 计划 房型
+nmod 男生 物理
+advcl 求 搭车
+nsubj 八个 租房
+nsubj 找 房型
+compound 以上 研究生
+nmod 学生 本科
+nmod 。 租房
+nmod 是 租房
+nummod 相当于 一
+nummod 一 一
+nmod 要 教学
+amod 。 公共
+nmod 计划 房型
+cop 爱 爱
+xcomp 注明 搭车
+compound 站 公交
+nmod 租房 租房
+nsubj 问 博士
+nmod 60,000 英里
+nmod 走 礼物
+advcl 求 搭车
+xcomp 求 搭车
+nsubj 填 弃权
+nmod 之间 租房
+xcomp 求 搭车
+nsubj 只有 只
+nmod 人 小区
+nmod 其中 卧室
+nsubj 的 官方
+case:pref ， 好
+obj 坐 巴士
+nsubj 要求 博士生
+nsubj 如 嗨
+root 太太 好
+nmod 学期 秋季
+NA ( 大
+ccomp 台灯 免费
+obj 有 公交
+acl:relcl 同学 搭车
+nsubj （ 客厅
+clf $690 月
+ccomp 都 要求
+nmod 入住 租房
+nmod 模拟 模拟
+obj 建立 文件
+obj 开 派对
+nummod 床 一
+obj 开 派对
+nsubj 周 新生
+nmod 一 客厅
+xcomp 求 搭车
+root ！ 免费
+compound 签 办公室
+xcomp 搭车 搭车
+nmod 开 派对
+advcl 求 搭车
+nmod 8/5/2017-7/31/2018 租房
+nsubj 的 租房
+nmod . 组团
+obj 免费 卧室
+amod 的 超大
+root 还有 还有
+case 可以 离
+nmod 卫生间 房子
+nmod ； 客厅
+nmod 灯 更新
+nsubj 工作室 家
+nmod 洗衣房 楼
+obj 打印机 兄弟
+advcl 一 共用
+nmod ， 租房
+root 友好 友好
+obj 看 图片
+obj 看 图片
+nmod 间 公寓
+nmod ， 租房
+obl 找 暑期
+obj 打 操场
+compound 博士生 博士生
+advcl 的 去做
+root 给 给
+acl:relcl 带 带
+advmod 浴室 不
+obj 做 项目
+nummod 。 一
+root 高中 高中
+nmod 联系 邮箱
+compound 联系 邮件
+root 最好 最好
+advmod 有 好
+root 期内 担保
+det 有家具的 全
+nmod 就 租房
+obj 有 后院
+nmod 小区 公寓
+compound ， 露天
+nmod 学期 秋季
+advmod 电缆 已
+obj 无 派对
+obj 没有 车
+mark 事故 中等
+root 州 州
+obj 付 保证金
+obl 15-18 分
+nmod ） 工业
+root 便宜 谢谢
+compound 有 搭车
+obj 卧室 卧室
+ccomp 没有 无
+advmod 好 好
+cop 是 就是
+nsubj 可 邮件
+nmod 技术 楼房
+nsubj 开进 公交
+nsubj 茶几 尺寸
+aux 求 愿意
+obj 做 检查
+conj 到 州
+nmod 中心 学校
+nsubj 高中 高中
+xcomp 求 搭车
+nmod 公共汽车 号
+nmod 家庭 家庭
+nmod ， 租房
+compound 态度 办公室
+root 卫生间 共用
+nummod 下 五
+obj 有 公交
+nsubj 乘坐 卡
+nsubj 新 公寓
+obj 添加 日程
+obj 开 派对
+obj 包公 包公
+xcomp 求 搭车
+nmod 到 租金
+nsubj 开始 租金
+nsubj 没有 派对
+obj 有 婴儿
+compound 预约 拼
+obl:patient 理解 头衔
+root 不 派对
+nsubj 是 光纤
+nsubj 卫 公寓
+nsubj 看看 公寓
+root 首选 首选
+root 大小 大小
+compound 逗 研究生
+obj 联系 邮箱
+amod 浴室 公共
+amod + 公共
+obj 考虑 公寓
+amod 。 独立
+nsubj 黑色的 美国人
+amod 停车 免费
+nsubj 卖 路由器
+amod ， 干净
+obj 开 派对
+nmod 内推 模拟
+nmod 停止 公交
+nsubj 轻 黄色
+acl:relcl 。 公共
+nmod 在 壁橱
+obj 分享 线
+obj 出售 车库
+obj 出售 车库
+nsubj 出售 车库
+compound 同款 实验室
+nmod 计划 家庭
+conj 合适 情侣
+nsubj 八月 租金
+appos 拿到 许可证
+det 大小 全
+ccomp 要 公共
+nmod 计划 家庭
+nsubj 签 租金
+nmod ， 你
+root 刻薄 刻薄
+ccomp 说 刻薄
+obj 问 租金
+nsubj 问 租金
+nsubj 发送 你
+root 平面图 平面图
+nmod 我 电子
+nsubj 请 你
+obj 检查 汽车
+nmod 联系 电子
+nmod 机场 肯尼迪
+obj 看 列表
+nsubj 使用 情侣
+nmod 。 生物
+nmod 有 房子
+amod 。 公共
+advmod 短信 比较
+conj 算 设备
+root 租车 公共
+amod 浴室 完整
+obj 没有 部分
+amod ； 干净
+nsubj ， 你
+nummod 大小 双胞胎
+amod 浴 完整
+obj 计划 饮食
+advmod 男生 比较
+nsubj 没有 派对
+obj 有意 租金
+xcomp 选 进入
+nmod 里面 钱
+nmod 的 文科
+nummod 卧室 单
+acl:relcl 。 公共
+obj 签 租金
+nsubj ， 你
+compound 卡 礼物
+advmod 免费 免费
+obj 有 建议
+root 低级 低级
+obj 要 信息
+nmod 很 房子
+compound 空房 办事处
+nsubj 广场 尺
+nsubj 办理 签证
+amod 费 公共
+compound 预约 预约
+nummod 五个 五
+nmod 博士学位 土木
+nmod 租车 分担
+acl:relcl 。 公共
+nmod 有 房子
+nsubj 研究生 研究生
+root 方便 查找
+obj 去 肯尼迪
+obj 开 派对
+root ？ 包含
+root 忘了 包含
+nsubj 是 租金
+nsubj 封面 设施
+advmod 可 公共
+ccomp 一起 公共
+obj 机场 人
+xcomp 发出 发出
+nmod 机场 肯尼迪
+compound 或 工作
+advmod 的 共
+compound 不错的 办事处
+nmod 考试 期末
+nsubj 过 社会
+amod 条件 优良
+nmod 去 肯尼迪
+obj 有 酒吧
+advmod 好 好
+advcl 的 装修
+obj 有 派对
+nsubj ， 你
+root 有 有
+nsubj 干净 头衔
+nmod 开始 租金
+nmod 人 设施
+nmod 历史 汽车
+obj 开 派对
+root 有 有
+compound 坦克 油箱
+nmod 近 校园
+nmod 么 电缆
+compound 欢迎 更新
+nmod 开始 租金
+compound 负责 办事处
+compound 人 办事处
+obl 走的 肯尼迪
+cop ， 装修
+nmod 开 派对
+nsubj 进 街区
+compound 周 期末
+compound 周 期末
+nmod 费 损坏
+nmod 服务 学生
+xcomp 办 许可证
+ccomp 要 公共
+case 女生 对不起
+obl 租 八月
+nmod 跑步 健身房
+nmod 算 健身房
+nsubj 出售 搬家
+nmod 谈 资金
+nmod 咨询 电子
+nsubj 至 邮件
+nmod 在 商场
+nmod 我 电子
+nsubj 停车 客人
+obj 问 租金
+nmod 身份证件 州
+advmod 记得 另外
+advmod 女生 比较
+nmod ， 领导
+nmod 身份证件 州
+nmod 可以 零售商
+nmod 身份证件 州
+conj 包 光纤
+compound 住 研究生
+obl 房子 俱乐部
+nmod 问题 租金
+advmod 情侣 好
+nmod 近 杂货
+nsubj ， 所有
+nsubj 许可证 学员
+nmod 我 电子
+nmod 沟通 电子
+ccomp 坏 收费
+conj 觉得 争论
+nsubj 给 你
+nmod 费 活动
+obj 问题 租金
+xcomp 害怕 赞助
+ccomp 没错 队员
+obj 发送 简历
+amod 。 公共
+nmod 能用 代码
+nummod 有 一
+obj 卖 零售商
+nmod 联系 工作室
+nmod 联系 电子
+nmod 房子 房子
+nmod 在 壁橱
+nummod 五个 五
+ccomp 可以 公共
+nsubj 小 参照
+acl:relcl 做 测试
+nmod 去 肯尼迪
+obj 注意 出价
+acl:relcl 结果 出价
+compound 属于 办事处
+nummod 五个 五
+nmod 列表 邮件
+amod ， 公共
+nsubj 包含 设施
+advmod 信 不
+root 女士 女士
+advcl 没 过夜
+case:pref 或者 大
+obl 的 利益
+xcomp . 工作室
+ccomp 有 包含
+nmod 咨询 邮件
+nsubj 贵 火石
+root 爱 派对
+nsubj 说明 帖子
+nsubj 联系 图片
+obj 租 春天
+obl 看到 论坛
+obj 需要 技巧
+acl:relcl 有 许可证
+ccomp 签订 打破
+amod ， 公共
+csubj 让 签证
+advmod 有家具的 完全
+advmod 女生 比较
+ccomp 签订 打破
+obj 加 租金
+nmod 分校 公园
+amod ， 公共
+amod 停车 免费
+nmod 门 动力
+nmod 计划 家庭
+nmod 洗 厕所
+nmod 俱乐部 网球
+amod 方式 偏爱
+nsubj 大家 你
+NA 朋友 好
+nsubj 你 你
+compound 可以 零售商
+nmod 我 电子
+nsubj ？ 情侣
+case:pref 卧室 主
+nummod 五个 五
+nsubj ， 我
+root 有 优秀
+nsubj 空余 家庭
+obj 需 钱
+root 语言学 应用
+case:pref 架 小
+xcomp 和 办
+mark 是 还是
+advmod 好 好
+nmod 房子 居民
+nsubj 去 办事处
+nmod 来 美国
+advcl 好 好
+compound 大小 特大
+nmod 开 派对
+nmod 垫圈 迷你
+obj 加 标签
+obj 橄榄球 下半夜
+obj 住 旅店
+advmod 情侣 情侣
+nmod 计划 家庭
+nsubj 我 你
+nmod 航运 标准
+nmod 美女 你
+nsubj 依赖 标签
+nsubj ， 你
+nmod 豁免 减免
+case 8月 在
+det 是 所有
+xcomp 考 许可证
+nmod 着 带着
+advmod 短信 比较
+nsubj 娇小 大小
+root 发出 发出
+root 大小 大小
+nsubj 回复 论坛
+nmod 读 研究生
+obj 包括 设施
+xcomp 上 论坛
+root 多少 英里
+obl 论坛 网站
+compound 健身房 健身房
+obj 签 租金
+obj 有 箱子
+nsubj ， 可用性
+ccomp 要求 禁止
+nmod 费 清理
+advmod 女生 比较
+xcomp 来 由于
+nmod 闲谈，聊天 在线
+nsubj 送 房子
+nmod 公寓 卧室
+advcl 情侣 情侣
+nsubj 交 设施
+acl:relcl 。 公共
+nsubj 靠 房子
+ccomp 联系 偏爱
+root 没有 回收
+nmod 安全 儿童
+nummod 盒子 一
+nummod 5美元 三
+obj 坐 公交
+compound 原价 搅拌机
+nmod 联系 电子
+amod 标题 干净
+amod 标题 干净
+ccomp 省心 可靠
+compound 计划 家庭
+amod 标题 干净
+xcomp 出售 出售
+compound 牌子 兄弟
+amod 标题 干净
+obj 写 文章
+nsubj 你 你
+nmod 许可证 学习者
+amod 标题 干净
+xcomp 需要 搬家
+nmod 优秀的 状态
+nsubj 控制 风扇
+nsubj 有 前面
+compound 站 电视
+nsubj 音箱 线
+nsubj 链接 链接
+advcl 做 检查
+xcomp 适合 聚会
+compound 大小 超大
+amod 标题 干净
+nmod 座位的 汽车
+nmod 生活必需品 房
+advmod 平稳 平稳
+compound 窗口 标准
+root 弗里克 近
+advcl 出 谢谢
+nmod 附件 文档
+nmod 座位 婴儿
+obj 给 报告
+nsubj = 大小
+obj 支撑 外壳
+nsubj 做 检查
+nmod 转子 刹车
+advmod 市场 最
+root 需要 拿
+root 短信 短信
+nsubj 调节 麦克风
+root 显卡 集成
+nmod 能用 代码
+nsubj 。 状态
+root 有效 有效
+nsubj 航运 标准
+amod 标题 干净
+root 房 公寓
+xcomp 开 聚会
+root 更新 更新
+root 有效 有效
+advmod 上网 免费
+advmod 上网 免费
+root 提供 提供
+nmod 咨询 电子
+nsubj 有 公交
+nmod 一 住宅
+nmod / 美
+nsubj 商量 宠物
+nmod 联系 电子
+nmod 联系 电子
+nmod 共 住宅
+obj 个 客厅
+nmod 厨房 住宅
+obj 主 硕士
+nsubj ， 保证金
+nmod 的 客厅
+nmod 房间 客厅
+amod ； 完全
+advmod 走了 全
+nmod 床 房间
+obj 签 合同
+amod 浴室 完整
+acl:relcl 在 负责
+nsubj 评分 公寓
+nmod 有 门卫
+nmod 卧室 住宅
+root 到 合同
+amod 卫生间 完整
+root 工作室 工作室
+obj 签 合同
+advmod 好 好
+cc 文本 或者
+nmod 车库 附属
+nsubj 有 面板
+nmod 。 附属
+advmod 走了 全
+root 去 去
+compound 从 摆渡
+amod 好的 好的
+compound 社区 富人
+obj 适合 暑假
+nsubj 隶属 公寓
+compound 非常 物
+mark 是 还是
+advmod 厨房 共
+amod 专业 年轻
+obl 签 经理
+root 好 好
+nmod 卧室 卧室
+advmod 是 好
+nsubj 方便 街区
+nmod 顶楼 风景
+advmod 停车 免费
+nmod 集 床上
+nsubj 有 大厅
+nsubj 有 操场
+advmod 删除 对不起
+obj 欢迎 短信
+nsubj 有 公交
+nsubj ， 保证金
+nsubj 有 门卫
+obj 房子 平面图
+xcomp 没有 交通
+nsubj 街 露天
+nsubj 第一个 短信
+root 共享 共享
+obj 入住 合同
+nmod 网站 公寓
+advmod 可用 依旧
+root 平面图 平面图
+compound 浴室 完整
+nmod 有 体育馆
+xcomp 拎包 受
+advmod 地点 比较
+root 共享 共享
+nmod 工作 社会
+root 有 烧烤
+amod 时间 有效
+nmod 工作室 工作室
+xcomp 开 聚会
+obj 开 聚会
+nmod 总结 公寓
+aux 开 聚会
+nsubj 街 车道
+conj 有 器具
+advmod 可用 依旧
+nmod 有 壁炉
+nmod 出租 公寓
+nsubj 是 公寓
+nummod 或者 一
+nsubj 女生 硕士
+nmod 厅 公寓
+case:pref 大小 超
+nmod 博士学位 硕士
+nmod : 电子
+nsubj 商量 宠物
+compound 补充 浴室
+nummod 卧室 单
+obj 餐厅 酒吧
+nmod 400-500 美
+compound 停止 公交
+root 交付 支票
+nsubj 请求 维修
+nmod 房子 联
+nummod 床上 单
+nummod 独 独
+obj 餐厅 酒吧
+root 好 好
+conj 不错 酒吧
+nsubj 打扫 物业
+nsubj 有 公寓
+nummod 独 独
+advmod 短信 比较
+nsubj 出租 公寓
+nsubj 计划 平面图
+nmod 方式 更新
+amod 房子 单独
+compound 浴室 共享
+root 卫生间 共享
+root 位于 位于
+root 有效 有效
+root 摆渡 摆渡
+nsubj 可以 车道
+amod 房子 单独
+nsubj 起 合同
+root 花园 公寓
+root 包括 包括
+nmod 联系 经理
+root 好 好
+nmod 沟通 电子
+nmod 环境 公寓
+nsubj 面向 工作室
+xcomp 算是 工作室
+obj 收费 车库
+nummod 主要 独
+compound 出租 客厅
+nmod 房子 情况
+conj 浴室 浴室
+amod 男生 好
+nsubj 不 娱乐
+nmod 只有 仅限
+advmod ) 更加
+obl 找到 月
+obj 签 合同
+det 有 所有
+conj 包 垃圾
+nsubj 有 中心
+compound 但 暑
+obj 签 合同
+nsubj 是 公寓
+advmod 可用 依旧
+obj 有 车库
+xcomp 无需 保证金
+root 公寓 公寓
+amod 咨询 重要
+compound 的 超大
+nmod 卧室 公寓
+case:pref 地板上 非
+nsubj 不错的 人
+compound 停 摆渡
+aux 没 聚会
+root 卧室 卧室
+det 个 每个
+nmod 停车 室外
+nmod 衣橱 进门
+nsubj 停车 露天
+advcl 在国外 出国
+compound 没有 洗衣机
+obj 去 塔
+nmod 包括 工作室
+nsubj 好 公寓
+nmod 克雷格 中间
+case:pref 院子里 后
+obj 交 费用
+nmod 或者 电子
+nsubj 有 餐厅
+nmod 只 街区
+nmod 有 餐厅
+amod 停车 免费
+root 到 合同
+nmod 好 硕士
+nsubj 有 许可证
+nsubj 拿到 许可证
+xcomp 问 分享
+nmod 客人 租借
+nsubj 地区 地区
+obj 拿到 邀请
+advmod 好 好
+nmod 计划 家庭
+obj 见 传单
+nsubj 有 许可证
+nmod . 个人
+nmod 群发 电子
+case 对不起 对不起
+nsubj 索赔 行李
+nsubj 索赔 行李
+nsubj 有 市区
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
