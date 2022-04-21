@@ -1,4 +1,4 @@
-,cs_back_word_freq_zh,cs_back_word_pos_zh,cs_back_word_length_zh,cs_back_ngram_surp_zh
+,word_freq_zh,cs_word_pos_zh,cs_word_length_zh,ngram_surp_zh
 0,8.291759627895480,AD,2,7.310274
 1,6.377483472434710,P,1,5.0597463
 2,12.623917404187000,AD,2,5.992529
