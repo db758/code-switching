@@ -8,7 +8,7 @@ All word_freq values have had negative natural log (ln) applied to them in redoi
 
 In the word_freq_eng column in non_cs_sentences_full.csv, frquencies were calculated using only the first word wherever the column contains a phrase of more than one word. This was for consistency with word_freq_eng in redoing_cs_data.csv. 
 
-
+  
 Useful links:
   
 Getting frequency raw counts: https://phrasefinder.io/ 
