@@ -15,4 +15,5 @@ Useful links:
   
 Getting frequency raw counts: https://phrasefinder.io/ \
 Getting frequency total count: http://storage.googleapis.com/books/ngrams/books/datasetsv2.html 
+
 Part-of-speech tagsets for English and Chinese: https://github.com/explosion/spaCy/blob/master/spacy/glossary.py 
