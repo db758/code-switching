@@ -1,7 +1,7 @@
 # code-switching 
 21Apr2022: TODO: cross check local code-switching folder
 
-All dependency ngrams are of the form: dependency relation label, word, head.
+All dependency ngrams are of the form: (dependency relation label, word, head).
 
 redone_ prefix: I had to redo my code-switched analysis at one point because I had not used the full code-switched dataset to begin with. 
 
