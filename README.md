@@ -1,5 +1,4 @@
 # code-switching 
-21Apr2022: TODO: cross check local code-switching folder
 
 All dependency ngrams are of the form: (dependency relation label, word, head).
 
