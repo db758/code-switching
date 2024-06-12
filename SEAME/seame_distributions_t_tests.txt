@@ -1,0 +1,45 @@
+data:  cs1_zh_surp_og and random_non_cst = 64.039, df = 9298, p-value < 2.2e-16alternative hypothesis: true difference in means is not equal to 095 percent confidence interval: 4.373402 4.649591sample estimates:mean of x mean of y  14.52933  10.01784
+
+
+
+data:  cs1_zh_surp_wbw and random_non_cst = 62.248, df = 10035, p-value < 2.2e-16alternative hypothesis: true difference in means is not equal to 095 percent confidence interval: 3.921504 4.176513sample estimates:mean of x mean of y  14.06684  10.01784
+
+
+
+data:  cs1_zh_surp_og and mean_non_cst = 68.596, df = 7396.2, p-value < 2.2e-16alternative hypothesis: true difference in means is not equal to 095 percent confidence interval: 4.419486 4.679509sample estimates:mean of x mean of y 14.529333  9.979836data:  cs1_zh_surp_wbw and mean_non_cst = 67.494, df = 7679.3, p-value < 2.2e-16alternative hypothesis: true difference in means is not equal to 095 percent confidence interval: 3.968307 4.205711sample estimates:mean of x mean of y 14.066845  9.979836
+
+
+
+
+data:  random_non_cs and wikit = 32.906, df = 43331, p-value < 2.2e-16alternative hypothesis: true difference in means is not equal to 095 percent confidence interval: 1.150222 1.295925sample estimates:mean of x mean of y 10.017836  8.794763
+
+
+
+data:  mean_non_cs and wikit = 41.455, df = 61142, p-value < 2.2e-16alternative hypothesis: true difference in means is not equal to 095 percent confidence interval: 1.129043 1.241103sample estimates:mean of x mean of y  9.979836  8.794763
+
+
+
+
+data:  cs1_en_surp_og and wiki_en_surpt = 118.54, df = 9199.6, p-value < 2.2e-16alternative hypothesis: true difference in means is not equal to 095 percent confidence interval: 6.407419 6.622895sample estimates:mean of x mean of y 14.193686  7.678529
+
+
+data:  cs1_en_surp_wbw and wiki_en_surpt = 125.78, df = 9448.9, p-value < 2.2e-16alternative hypothesis: true difference in means is not equal to 095 percent confidence interval: 6.605119 6.814254sample estimates:mean of x mean of y 14.388215  7.678529
+
+
+data:  cs1_en_word_length and wiki_en_word_lengtht = 58.322, df = 7387.4, p-value < 2.2e-16alternative hypothesis: true difference in means is not equal to 095 percent confidence interval: 1.945354 2.080674sample estimates:mean of x mean of y  5.611732  3.598718
+
+
+data:  cs1_en_word_freq and wiki_en_word_freqt = 20.682, df = 15065, p-value < 2.2e-16alternative hypothesis: true difference in means is not equal to 095 percent confidence interval: 1.296060 1.567447sample estimates:mean of x mean of y  14.06711  12.63536
+
+
+data:  norm_cs_eng_og and norm_cs_zh_ogt = 20.298, df = 12198, p-value < 2.2e-16alternative hypothesis: true difference in means is not equal to 095 percent confidence interval: 0.1774761 0.2154171sample estimates:mean of x mean of y  1.848490  1.652044
+
+data:  norm_cs_eng_wbw and norm_cs_zh_ogt = 23.288, df = 12089, p-value < 2.2e-16alternative hypothesis: true difference in means is not equal to 095 percent confidence interval: 0.2031136 0.2404480sample estimates:mean of x mean of y  1.873825  1.652044
+
+data:  norm_cs_eng_og and norm_cs_zh_wbwt = 27.139, df = 12339, p-value < 2.2e-16alternative hypothesis: true difference in means is not equal to 095 percent confidence interval: 0.2310467 0.2670200sample estimates:mean of x mean of y  1.848490  1.599457
+
+data:  norm_cs_eng_wbw and norm_cs_zh_wbwt = 30.442, df = 12316, p-value < 2.2e-16alternative hypothesis: true difference in means is not equal to 095 percent confidence interval: 0.2567010 0.2920341sample estimates:mean of x mean of y  1.873825  1.599457
+
+
+
+data:  cs_sentence_lengths and non_cs_sentence_lengthst = 44.98, df = 7926.2, p-value < 2.2e-16alternative hypothesis: true difference in means is not equal to 095 percent confidence interval: 4.967736 5.420464sample estimates:mean of x mean of y 12.093016  6.898915
